@@ -1,0 +1,1001 @@
+Order Date,Region,Country,Category,Product,Sales Rep,Channel,Units Sold,Unit Price,Unit Cost,Revenue,Cost,Profit,Margin %
+2025-01-01,West,Germany,Apparel,Running Shoes,L. Rossi,Online,31,$74.99,$39.74,"$2,324.69","$1,231.94","$1,092.75",47.0%
+2025-01-01,North,USA,Office,Desk Chair,R. Chen,Retail Store,27,$179.99,$82.80,"$4,859.73","$2,235.60","$2,624.13",54.0%
+2025-01-02,North,Canada,Office,Desk Lamp,L. Rossi,Retail Store,16,$29.99,$16.79,$479.84,$268.64,$211.20,44.0%
+2025-01-02,North,USA,Home & Kitchen,Air Fryer,K. Ivanova,Online,10,$89.99,$53.99,$899.90,$539.90,$360.00,40.0%
+2025-01-02,East,Japan,Apparel,Backpack,J. Kim,Online,11,$54.99,$26.95,$604.89,$296.45,$308.44,51.0%
+2025-01-02,West,UK,Apparel,Backpack,J. Kim,Online,16,$54.99,$26.95,$879.84,$431.20,$448.64,51.0%
+2025-01-04,East,Japan,Home & Kitchen,Cookware Set,T. Novak,Wholesale,20,$119.99,$56.40,"$2,399.80","$1,128.00","$1,271.80",53.0%
+2025-01-04,East,India,Home & Kitchen,Blender,A. Patel,Retail Store,18,$44.99,$28.34,$809.82,$510.12,$299.70,37.0%
+2025-01-04,North,USA,Electronics,Bluetooth Speaker,L. Rossi,Retail Store,31,$39.99,$20.39,"$1,239.69",$632.09,$607.60,49.0%
+2025-01-04,East,India,Electronics,Bluetooth Speaker,A. Patel,Retail Store,10,$39.99,$20.39,$399.90,$203.90,$196.00,49.0%
+2025-01-05,South,Brazil,Apparel,Backpack,K. Ivanova,Wholesale,18,$54.99,$26.95,$989.82,$485.10,$504.72,51.0%
+2025-01-07,West,Germany,Office,Desk Chair,K. Ivanova,Online,38,$179.99,$82.80,"$6,839.62","$3,146.40","$3,693.22",54.0%
+2025-01-07,East,Japan,Office,Notebook Set,A. Patel,Online,35,$14.99,$8.69,$524.65,$304.15,$220.50,42.0%
+2025-01-08,North,USA,Home & Kitchen,Cookware Set,K. Ivanova,Online,26,$119.99,$56.40,"$3,119.74","$1,466.40","$1,653.34",53.0%
+2025-01-08,South,Argentina,Electronics,Wireless Earbuds,T. Novak,Retail Store,9,$59.99,$34.79,$539.91,$313.11,$226.80,42.0%
+2025-01-08,East,Japan,Home & Kitchen,Coffee Maker,L. Rossi,Retail Store,33,$69.99,$41.29,"$2,309.67","$1,362.57",$947.10,41.0%
+2025-01-08,North,USA,Apparel,Backpack,S. Owusu,Wholesale,18,$54.99,$26.95,$989.82,$485.10,$504.72,51.0%
+2025-01-08,South,Brazil,Apparel,Jacket,A. Patel,Wholesale,7,$99.99,$46.00,$699.93,$322.00,$377.93,54.0%
+2025-01-09,West,Germany,Home & Kitchen,Cookware Set,A. Patel,Wholesale,30,$119.99,$56.40,"$3,599.70","$1,692.00","$1,907.70",53.0%
+2025-01-09,South,Brazil,Home & Kitchen,Cookware Set,M. Silva,Retail Store,28,$119.99,$56.40,"$3,359.72","$1,579.20","$1,780.52",53.0%
+2025-01-09,South,Brazil,Office,Desk Chair,A. Patel,Retail Store,27,$179.99,$82.80,"$4,859.73","$2,235.60","$2,624.13",54.0%
+2025-01-10,North,Canada,Apparel,Jacket,A. Patel,Online,37,$99.99,$46.00,"$3,699.63","$1,702.00","$1,997.63",54.0%
+2025-01-10,East,Japan,Apparel,Backpack,R. Chen,Wholesale,33,$54.99,$26.95,"$1,814.67",$889.35,$925.32,51.0%
+2025-01-11,South,Brazil,Home & Kitchen,Cookware Set,J. Kim,Retail Store,14,$119.99,$56.40,"$1,679.86",$789.60,$890.26,53.0%
+2025-01-12,East,India,Home & Kitchen,Coffee Maker,T. Novak,Online,40,$69.99,$41.29,"$2,799.60","$1,651.60","$1,148.00",41.0%
+2025-01-12,South,Argentina,Office,Notebook Set,S. Owusu,Online,34,$14.99,$8.69,$509.66,$295.46,$214.20,42.0%
+2025-01-13,East,India,Electronics,Laptop Stand,T. Novak,Retail Store,8,$24.99,$12.25,$199.92,$98.00,$101.92,51.0%
+2025-01-13,South,Argentina,Electronics,Bluetooth Speaker,A. Patel,Retail Store,25,$39.99,$20.39,$999.75,$509.75,$490.00,49.0%
+2025-01-13,West,Germany,Electronics,Wireless Earbuds,J. Kim,Online,17,$59.99,$34.79,"$1,019.83",$591.43,$428.40,42.0%
+2025-01-14,South,Argentina,Office,Desk Chair,T. Novak,Retail Store,29,$179.99,$82.80,"$5,219.71","$2,401.20","$2,818.51",54.0%
+2025-01-15,West,Germany,Office,Monitor Arm,K. Ivanova,Wholesale,40,$64.99,$31.85,"$2,599.60","$1,274.00","$1,325.60",51.0%
+2025-01-15,South,Brazil,Office,Desk Chair,T. Novak,Wholesale,14,$179.99,$82.80,"$2,519.86","$1,159.20","$1,360.66",54.0%
+2025-01-16,East,India,Office,Notebook Set,R. Chen,Wholesale,7,$14.99,$8.69,$104.93,$60.83,$44.10,42.0%
+2025-01-16,East,Japan,Office,Notebook Set,K. Ivanova,Retail Store,18,$14.99,$8.69,$269.82,$156.42,$113.40,42.0%
+2025-01-17,North,USA,Electronics,Laptop Stand,S. Owusu,Online,27,$24.99,$12.25,$674.73,$330.75,$343.98,51.0%
+2025-01-17,North,Canada,Electronics,Bluetooth Speaker,A. Patel,Online,1,$39.99,$20.39,$39.99,$20.39,$19.60,49.0%
+2025-01-18,East,India,Electronics,Bluetooth Speaker,S. Owusu,Retail Store,12,$39.99,$20.39,$479.88,$244.68,$235.20,49.0%
+2025-01-18,North,USA,Apparel,Sunglasses,A. Patel,Wholesale,10,$34.99,$19.24,$349.90,$192.40,$157.50,45.0%
+2025-01-18,West,Germany,Office,Desk Chair,K. Ivanova,Online,6,$179.99,$82.80,"$1,079.94",$496.80,$583.14,54.0%
+2025-01-19,East,India,Electronics,Smart Watch,A. Patel,Online,20,$149.99,$69.00,"$2,999.80","$1,380.00","$1,619.80",54.0%
+2025-01-19,South,Brazil,Apparel,Backpack,J. Kim,Online,27,$54.99,$26.95,"$1,484.73",$727.65,$757.08,51.0%
+2025-01-19,South,Brazil,Apparel,Sunglasses,L. Rossi,Wholesale,36,$34.99,$19.24,"$1,259.64",$692.64,$567.00,45.0%
+2025-01-19,East,Japan,Home & Kitchen,Blender,R. Chen,Online,36,$44.99,$28.34,"$1,619.64","$1,020.24",$599.40,37.0%
+2025-01-20,North,Canada,Apparel,Backpack,L. Rossi,Retail Store,33,$54.99,$26.95,"$1,814.67",$889.35,$925.32,51.0%
+2025-01-20,North,Canada,Apparel,Running Shoes,J. Kim,Retail Store,33,$74.99,$39.74,"$2,474.67","$1,311.42","$1,163.25",47.0%
+2025-01-21,East,India,Home & Kitchen,Air Fryer,S. Owusu,Retail Store,27,$89.99,$53.99,"$2,429.73","$1,457.73",$972.00,40.0%
+2025-01-21,South,Argentina,Office,Monitor Arm,S. Owusu,Online,19,$64.99,$31.85,"$1,234.81",$605.15,$629.66,51.0%
+2025-01-21,South,Argentina,Electronics,Bluetooth Speaker,K. Ivanova,Retail Store,36,$39.99,$20.39,"$1,439.64",$734.04,$705.60,49.0%
+2025-01-21,South,Brazil,Office,Monitor Arm,A. Patel,Wholesale,6,$64.99,$31.85,$389.94,$191.10,$198.84,51.0%
+2025-01-21,North,Canada,Office,Desk Chair,L. Rossi,Online,39,$179.99,$82.80,"$7,019.61","$3,229.20","$3,790.41",54.0%
+2025-01-21,West,Germany,Office,Desk Lamp,K. Ivanova,Online,10,$29.99,$16.79,$299.90,$167.90,$132.00,44.0%
+2025-01-21,East,Japan,Home & Kitchen,Coffee Maker,K. Ivanova,Online,34,$69.99,$41.29,"$2,379.66","$1,403.86",$975.80,41.0%
+2025-01-22,North,USA,Electronics,Bluetooth Speaker,R. Chen,Retail Store,27,$39.99,$20.39,"$1,079.73",$550.53,$529.20,49.0%
+2025-01-22,West,UK,Home & Kitchen,Cookware Set,M. Silva,Retail Store,15,$119.99,$56.40,"$1,799.85",$846.00,$953.85,53.0%
+2025-01-22,East,India,Office,Notebook Set,S. Owusu,Online,36,$14.99,$8.69,$539.64,$312.84,$226.80,42.0%
+2025-01-23,North,USA,Apparel,Running Shoes,M. Silva,Wholesale,16,$74.99,$39.74,"$1,199.84",$635.84,$564.00,47.0%
+2025-01-23,South,Brazil,Apparel,Jacket,J. Kim,Online,4,$99.99,$46.00,$399.96,$184.00,$215.96,54.0%
+2025-01-24,South,Argentina,Electronics,Wireless Earbuds,R. Chen,Online,14,$59.99,$34.79,$839.86,$487.06,$352.80,42.0%
+2025-01-24,North,Canada,Electronics,Wireless Earbuds,M. Silva,Online,1,$59.99,$34.79,$59.99,$34.79,$25.20,42.0%
+2025-01-24,West,UK,Office,Notebook Set,T. Novak,Online,36,$14.99,$8.69,$539.64,$312.84,$226.80,42.0%
+2025-01-24,North,Canada,Apparel,Running Shoes,R. Chen,Wholesale,22,$74.99,$39.74,"$1,649.78",$874.28,$775.50,47.0%
+2025-01-24,South,Brazil,Electronics,Smart Watch,A. Patel,Wholesale,7,$149.99,$69.00,"$1,049.93",$483.00,$566.93,54.0%
+2025-01-24,South,Argentina,Apparel,Running Shoes,S. Owusu,Online,28,$74.99,$39.74,"$2,099.72","$1,112.72",$987.00,47.0%
+2025-01-24,East,India,Electronics,Wireless Earbuds,K. Ivanova,Retail Store,8,$59.99,$34.79,$479.92,$278.32,$201.60,42.0%
+2025-01-25,North,Canada,Office,Desk Lamp,T. Novak,Online,7,$29.99,$16.79,$209.93,$117.53,$92.40,44.0%
+2025-01-26,East,India,Apparel,Backpack,K. Ivanova,Online,8,$54.99,$26.95,$439.92,$215.60,$224.32,51.0%
+2025-01-26,South,Brazil,Home & Kitchen,Coffee Maker,R. Chen,Online,27,$69.99,$41.29,"$1,889.73","$1,114.83",$774.90,41.0%
+2025-01-27,North,Canada,Apparel,Running Shoes,A. Patel,Online,9,$74.99,$39.74,$674.91,$357.66,$317.25,47.0%
+2025-01-27,East,India,Electronics,Wireless Earbuds,A. Patel,Wholesale,13,$59.99,$34.79,$779.87,$452.27,$327.60,42.0%
+2025-01-27,East,Japan,Apparel,Running Shoes,R. Chen,Online,31,$74.99,$39.74,"$2,324.69","$1,231.94","$1,092.75",47.0%
+2025-01-28,West,Germany,Home & Kitchen,Cookware Set,J. Kim,Online,2,$119.99,$56.40,$239.98,$112.80,$127.18,53.0%
+2025-01-28,North,Canada,Home & Kitchen,Air Fryer,L. Rossi,Online,27,$89.99,$53.99,"$2,429.73","$1,457.73",$972.00,40.0%
+2025-01-28,South,Brazil,Home & Kitchen,Blender,L. Rossi,Wholesale,30,$44.99,$28.34,"$1,349.70",$850.20,$499.50,37.0%
+2025-01-28,West,UK,Apparel,Running Shoes,T. Novak,Online,38,$74.99,$39.74,"$2,849.62","$1,510.12","$1,339.50",47.0%
+2025-01-28,West,Germany,Electronics,Bluetooth Speaker,L. Rossi,Wholesale,12,$39.99,$20.39,$479.88,$244.68,$235.20,49.0%
+2025-01-28,East,India,Apparel,Jacket,S. Owusu,Online,15,$99.99,$46.00,"$1,499.85",$690.00,$809.85,54.0%
+2025-01-28,North,Canada,Electronics,Bluetooth Speaker,A. Patel,Online,38,$39.99,$20.39,"$1,519.62",$774.82,$744.80,49.0%
+2025-01-28,East,India,Electronics,Smart Watch,K. Ivanova,Online,20,$149.99,$69.00,"$2,999.80","$1,380.00","$1,619.80",54.0%
+2025-01-28,East,India,Electronics,Laptop Stand,J. Kim,Retail Store,38,$24.99,$12.25,$949.62,$465.50,$484.12,51.0%
+2025-01-28,West,Germany,Home & Kitchen,Coffee Maker,R. Chen,Retail Store,22,$69.99,$41.29,"$1,539.78",$908.38,$631.40,41.0%
+2025-01-29,South,Argentina,Home & Kitchen,Blender,S. Owusu,Online,10,$44.99,$28.34,$449.90,$283.40,$166.50,37.0%
+2025-01-29,East,India,Electronics,Wireless Earbuds,M. Silva,Retail Store,11,$59.99,$34.79,$659.89,$382.69,$277.20,42.0%
+2025-01-29,East,Japan,Home & Kitchen,Cookware Set,S. Owusu,Online,1,$119.99,$56.40,$119.99,$56.40,$63.59,53.0%
+2025-01-30,West,Germany,Home & Kitchen,Air Fryer,K. Ivanova,Wholesale,17,$89.99,$53.99,"$1,529.83",$917.83,$612.00,40.0%
+2025-01-31,South,Argentina,Electronics,Laptop Stand,T. Novak,Wholesale,30,$24.99,$12.25,$749.70,$367.50,$382.20,51.0%
+2025-01-31,East,Japan,Home & Kitchen,Blender,T. Novak,Online,18,$44.99,$28.34,$809.82,$510.12,$299.70,37.0%
+2025-01-31,South,Argentina,Office,Desk Chair,K. Ivanova,Retail Store,17,$179.99,$82.80,"$3,059.83","$1,407.60","$1,652.23",54.0%
+2025-01-31,North,Canada,Home & Kitchen,Cookware Set,S. Owusu,Wholesale,39,$119.99,$56.40,"$4,679.61","$2,199.60","$2,480.01",53.0%
+2025-02-01,South,Argentina,Office,Desk Chair,L. Rossi,Online,23,$179.99,$82.80,"$4,139.77","$1,904.40","$2,235.37",54.0%
+2025-02-01,East,India,Electronics,Bluetooth Speaker,K. Ivanova,Online,36,$39.99,$20.39,"$1,439.64",$734.04,$705.60,49.0%
+2025-02-02,North,USA,Apparel,Running Shoes,T. Novak,Retail Store,20,$74.99,$39.74,"$1,499.80",$794.80,$705.00,47.0%
+2025-02-02,East,Japan,Home & Kitchen,Air Fryer,R. Chen,Online,24,$89.99,$53.99,"$2,159.76","$1,295.76",$864.00,40.0%
+2025-02-02,East,Japan,Office,Desk Chair,K. Ivanova,Retail Store,23,$179.99,$82.80,"$4,139.77","$1,904.40","$2,235.37",54.0%
+2025-02-03,South,Argentina,Home & Kitchen,Blender,R. Chen,Retail Store,2,$44.99,$28.34,$89.98,$56.68,$33.30,37.0%
+2025-02-04,South,Brazil,Home & Kitchen,Cookware Set,S. Owusu,Online,40,$119.99,$56.40,"$4,799.60","$2,256.00","$2,543.60",53.0%
+2025-02-04,West,UK,Home & Kitchen,Cookware Set,S. Owusu,Online,40,$119.99,$56.40,"$4,799.60","$2,256.00","$2,543.60",53.0%
+2025-02-05,West,UK,Apparel,Sunglasses,M. Silva,Retail Store,27,$34.99,$19.24,$944.73,$519.48,$425.25,45.0%
+2025-02-05,North,Canada,Apparel,Sunglasses,A. Patel,Online,9,$34.99,$19.24,$314.91,$173.16,$141.75,45.0%
+2025-02-05,North,Canada,Apparel,Sunglasses,M. Silva,Online,26,$34.99,$19.24,$909.74,$500.24,$409.50,45.0%
+2025-02-06,South,Argentina,Home & Kitchen,Cookware Set,J. Kim,Online,10,$119.99,$56.40,"$1,199.90",$564.00,$635.90,53.0%
+2025-02-06,North,Canada,Apparel,Jacket,L. Rossi,Wholesale,37,$99.99,$46.00,"$3,699.63","$1,702.00","$1,997.63",54.0%
+2025-02-06,West,UK,Home & Kitchen,Blender,L. Rossi,Retail Store,8,$44.99,$28.34,$359.92,$226.72,$133.20,37.0%
+2025-02-06,North,USA,Office,Desk Chair,K. Ivanova,Wholesale,40,$179.99,$82.80,"$7,199.60","$3,312.00","$3,887.60",54.0%
+2025-02-08,North,USA,Home & Kitchen,Cookware Set,M. Silva,Online,22,$119.99,$56.40,"$2,639.78","$1,240.80","$1,398.98",53.0%
+2025-02-09,North,USA,Apparel,Backpack,M. Silva,Online,10,$54.99,$26.95,$549.90,$269.50,$280.40,51.0%
+2025-02-09,East,Japan,Home & Kitchen,Cookware Set,R. Chen,Online,9,$119.99,$56.40,"$1,079.91",$507.60,$572.31,53.0%
+2025-02-09,East,Japan,Office,Notebook Set,K. Ivanova,Retail Store,29,$14.99,$8.69,$434.71,$252.01,$182.70,42.0%
+2025-02-10,North,Canada,Electronics,Smart Watch,M. Silva,Retail Store,36,$149.99,$69.00,"$5,399.64","$2,484.00","$2,915.64",54.0%
+2025-02-10,North,Canada,Office,Notebook Set,A. Patel,Wholesale,12,$14.99,$8.69,$179.88,$104.28,$75.60,42.0%
+2025-02-10,West,Germany,Office,Monitor Arm,M. Silva,Retail Store,22,$64.99,$31.85,"$1,429.78",$700.70,$729.08,51.0%
+2025-02-10,West,UK,Electronics,Laptop Stand,J. Kim,Online,30,$24.99,$12.25,$749.70,$367.50,$382.20,51.0%
+2025-02-11,West,UK,Apparel,Sunglasses,K. Ivanova,Online,17,$34.99,$19.24,$594.83,$327.08,$267.75,45.0%
+2025-02-11,West,Germany,Home & Kitchen,Coffee Maker,A. Patel,Wholesale,13,$69.99,$41.29,$909.87,$536.77,$373.10,41.0%
+2025-02-12,East,Japan,Apparel,Jacket,A. Patel,Retail Store,1,$99.99,$46.00,$99.99,$46.00,$53.99,54.0%
+2025-02-12,East,Japan,Office,Desk Chair,K. Ivanova,Online,9,$179.99,$82.80,"$1,619.91",$745.20,$874.71,54.0%
+2025-02-13,East,India,Electronics,Wireless Earbuds,T. Novak,Online,10,$59.99,$34.79,$599.90,$347.90,$252.00,42.0%
+2025-02-13,West,Germany,Home & Kitchen,Coffee Maker,T. Novak,Online,9,$69.99,$41.29,$629.91,$371.61,$258.30,41.0%
+2025-02-13,West,Germany,Home & Kitchen,Coffee Maker,K. Ivanova,Retail Store,32,$69.99,$41.29,"$2,239.68","$1,321.28",$918.40,41.0%
+2025-02-13,South,Argentina,Office,Desk Lamp,M. Silva,Online,28,$29.99,$16.79,$839.72,$470.12,$369.60,44.0%
+2025-02-14,East,Japan,Apparel,Sunglasses,L. Rossi,Retail Store,34,$34.99,$19.24,"$1,189.66",$654.16,$535.50,45.0%
+2025-02-14,East,Japan,Electronics,Wireless Earbuds,T. Novak,Online,20,$59.99,$34.79,"$1,199.80",$695.80,$504.00,42.0%
+2025-02-14,North,Canada,Home & Kitchen,Blender,J. Kim,Online,18,$44.99,$28.34,$809.82,$510.12,$299.70,37.0%
+2025-02-15,East,India,Electronics,Wireless Earbuds,L. Rossi,Retail Store,30,$59.99,$34.79,"$1,799.70","$1,043.70",$756.00,42.0%
+2025-02-15,North,USA,Home & Kitchen,Cookware Set,L. Rossi,Online,10,$119.99,$56.40,"$1,199.90",$564.00,$635.90,53.0%
+2025-02-15,West,Germany,Home & Kitchen,Cookware Set,S. Owusu,Online,29,$119.99,$56.40,"$3,479.71","$1,635.60","$1,844.11",53.0%
+2025-02-16,South,Argentina,Office,Desk Lamp,S. Owusu,Online,20,$29.99,$16.79,$599.80,$335.80,$264.00,44.0%
+2025-02-16,South,Argentina,Electronics,Smart Watch,S. Owusu,Online,16,$149.99,$69.00,"$2,399.84","$1,104.00","$1,295.84",54.0%
+2025-02-16,West,UK,Apparel,Sunglasses,S. Owusu,Online,3,$34.99,$19.24,$104.97,$57.72,$47.25,45.0%
+2025-02-16,South,Argentina,Office,Desk Chair,J. Kim,Online,24,$179.99,$82.80,"$4,319.76","$1,987.20","$2,332.56",54.0%
+2025-02-16,South,Brazil,Office,Monitor Arm,S. Owusu,Online,32,$64.99,$31.85,"$2,079.68","$1,019.20","$1,060.48",51.0%
+2025-02-17,East,Japan,Home & Kitchen,Air Fryer,L. Rossi,Online,30,$89.99,$53.99,"$2,699.70","$1,619.70","$1,080.00",40.0%
+2025-02-18,East,India,Office,Desk Chair,A. Patel,Wholesale,22,$179.99,$82.80,"$3,959.78","$1,821.60","$2,138.18",54.0%
+2025-02-18,South,Argentina,Apparel,Backpack,T. Novak,Retail Store,24,$54.99,$26.95,"$1,319.76",$646.80,$672.96,51.0%
+2025-02-19,East,India,Electronics,Smart Watch,T. Novak,Online,32,$149.99,$69.00,"$4,799.68","$2,208.00","$2,591.68",54.0%
+2025-02-19,North,USA,Home & Kitchen,Coffee Maker,S. Owusu,Online,10,$69.99,$41.29,$699.90,$412.90,$287.00,41.0%
+2025-02-21,North,USA,Apparel,Jacket,S. Owusu,Wholesale,16,$99.99,$46.00,"$1,599.84",$736.00,$863.84,54.0%
+2025-02-21,South,Argentina,Apparel,Running Shoes,M. Silva,Online,1,$74.99,$39.74,$74.99,$39.74,$35.25,47.0%
+2025-02-21,South,Argentina,Office,Notebook Set,M. Silva,Retail Store,24,$14.99,$8.69,$359.76,$208.56,$151.20,42.0%
+2025-02-21,East,India,Office,Notebook Set,R. Chen,Online,1,$14.99,$8.69,$14.99,$8.69,$6.30,42.0%
+2025-02-22,East,India,Electronics,Bluetooth Speaker,L. Rossi,Retail Store,5,$39.99,$20.39,$199.95,$101.95,$98.00,49.0%
+2025-02-22,North,Canada,Apparel,Backpack,K. Ivanova,Retail Store,28,$54.99,$26.95,"$1,539.72",$754.60,$785.12,51.0%
+2025-02-22,East,Japan,Apparel,Jacket,L. Rossi,Retail Store,9,$99.99,$46.00,$899.91,$414.00,$485.91,54.0%
+2025-02-22,West,Germany,Electronics,Wireless Earbuds,J. Kim,Retail Store,40,$59.99,$34.79,"$2,399.60","$1,391.60","$1,008.00",42.0%
+2025-02-23,South,Brazil,Office,Notebook Set,M. Silva,Online,39,$14.99,$8.69,$584.61,$338.91,$245.70,42.0%
+2025-02-23,West,UK,Office,Monitor Arm,A. Patel,Retail Store,15,$64.99,$31.85,$974.85,$477.75,$497.10,51.0%
+2025-02-24,West,UK,Home & Kitchen,Cookware Set,A. Patel,Retail Store,8,$119.99,$56.40,$959.92,$451.20,$508.72,53.0%
+2025-02-24,South,Argentina,Apparel,Backpack,T. Novak,Online,26,$54.99,$26.95,"$1,429.74",$700.70,$729.04,51.0%
+2025-02-24,East,Japan,Office,Desk Lamp,M. Silva,Wholesale,30,$29.99,$16.79,$899.70,$503.70,$396.00,44.0%
+2025-02-24,North,USA,Apparel,Jacket,R. Chen,Online,26,$99.99,$46.00,"$2,599.74","$1,196.00","$1,403.74",54.0%
+2025-02-24,North,Canada,Apparel,Running Shoes,T. Novak,Wholesale,37,$74.99,$39.74,"$2,774.63","$1,470.38","$1,304.25",47.0%
+2025-02-24,West,UK,Electronics,Wireless Earbuds,L. Rossi,Retail Store,34,$59.99,$34.79,"$2,039.66","$1,182.86",$856.80,42.0%
+2025-02-24,East,India,Electronics,Wireless Earbuds,K. Ivanova,Retail Store,31,$59.99,$34.79,"$1,859.69","$1,078.49",$781.20,42.0%
+2025-02-24,North,USA,Electronics,Smart Watch,J. Kim,Wholesale,24,$149.99,$69.00,"$3,599.76","$1,656.00","$1,943.76",54.0%
+2025-02-25,South,Brazil,Home & Kitchen,Cookware Set,M. Silva,Online,18,$119.99,$56.40,"$2,159.82","$1,015.20","$1,144.62",53.0%
+2025-02-25,North,USA,Office,Monitor Arm,J. Kim,Online,40,$64.99,$31.85,"$2,599.60","$1,274.00","$1,325.60",51.0%
+2025-02-25,South,Argentina,Home & Kitchen,Air Fryer,K. Ivanova,Retail Store,7,$89.99,$53.99,$629.93,$377.93,$252.00,40.0%
+2025-02-26,East,India,Apparel,Sunglasses,J. Kim,Online,21,$34.99,$19.24,$734.79,$404.04,$330.75,45.0%
+2025-02-26,North,USA,Electronics,Smart Watch,M. Silva,Wholesale,13,$149.99,$69.00,"$1,949.87",$897.00,"$1,052.87",54.0%
+2025-02-26,East,Japan,Home & Kitchen,Coffee Maker,M. Silva,Online,9,$69.99,$41.29,$629.91,$371.61,$258.30,41.0%
+2025-02-27,North,USA,Home & Kitchen,Coffee Maker,S. Owusu,Wholesale,29,$69.99,$41.29,"$2,029.71","$1,197.41",$832.30,41.0%
+2025-02-27,South,Argentina,Home & Kitchen,Coffee Maker,A. Patel,Online,35,$69.99,$41.29,"$2,449.65","$1,445.15","$1,004.50",41.0%
+2025-02-28,East,Japan,Electronics,Bluetooth Speaker,K. Ivanova,Online,20,$39.99,$20.39,$799.80,$407.80,$392.00,49.0%
+2025-03-01,West,UK,Apparel,Running Shoes,L. Rossi,Online,35,$74.99,$39.74,"$2,624.65","$1,390.90","$1,233.75",47.0%
+2025-03-01,South,Argentina,Electronics,Laptop Stand,A. Patel,Online,33,$24.99,$12.25,$824.67,$404.25,$420.42,51.0%
+2025-03-01,South,Argentina,Apparel,Backpack,K. Ivanova,Retail Store,34,$54.99,$26.95,"$1,869.66",$916.30,$953.36,51.0%
+2025-03-01,South,Argentina,Home & Kitchen,Cookware Set,L. Rossi,Retail Store,37,$119.99,$56.40,"$4,439.63","$2,086.80","$2,352.83",53.0%
+2025-03-01,South,Brazil,Office,Desk Lamp,K. Ivanova,Online,29,$29.99,$16.79,$869.71,$486.91,$382.80,44.0%
+2025-03-02,North,Canada,Office,Notebook Set,J. Kim,Online,37,$14.99,$8.69,$554.63,$321.53,$233.10,42.0%
+2025-03-03,East,India,Office,Notebook Set,K. Ivanova,Online,8,$14.99,$8.69,$119.92,$69.52,$50.40,42.0%
+2025-03-03,East,Japan,Office,Notebook Set,M. Silva,Online,7,$14.99,$8.69,$104.93,$60.83,$44.10,42.0%
+2025-03-04,North,Canada,Electronics,Smart Watch,L. Rossi,Retail Store,26,$149.99,$69.00,"$3,899.74","$1,794.00","$2,105.74",54.0%
+2025-03-04,West,Germany,Office,Notebook Set,J. Kim,Online,30,$14.99,$8.69,$449.70,$260.70,$189.00,42.0%
+2025-03-04,South,Argentina,Office,Notebook Set,T. Novak,Retail Store,26,$14.99,$8.69,$389.74,$225.94,$163.80,42.0%
+2025-03-04,East,Japan,Office,Monitor Arm,M. Silva,Online,4,$64.99,$31.85,$259.96,$127.40,$132.56,51.0%
+2025-03-05,West,Germany,Office,Notebook Set,M. Silva,Online,6,$14.99,$8.69,$89.94,$52.14,$37.80,42.0%
+2025-03-05,West,Germany,Home & Kitchen,Cookware Set,A. Patel,Online,4,$119.99,$56.40,$479.96,$225.60,$254.36,53.0%
+2025-03-05,North,USA,Office,Notebook Set,J. Kim,Online,25,$14.99,$8.69,$374.75,$217.25,$157.50,42.0%
+2025-03-05,East,Japan,Home & Kitchen,Cookware Set,R. Chen,Online,18,$119.99,$56.40,"$2,159.82","$1,015.20","$1,144.62",53.0%
+2025-03-05,West,UK,Home & Kitchen,Cookware Set,S. Owusu,Retail Store,36,$119.99,$56.40,"$4,319.64","$2,030.40","$2,289.24",53.0%
+2025-03-05,East,India,Home & Kitchen,Blender,M. Silva,Retail Store,33,$44.99,$28.34,"$1,484.67",$935.22,$549.45,37.0%
+2025-03-05,West,Germany,Home & Kitchen,Cookware Set,A. Patel,Online,2,$119.99,$56.40,$239.98,$112.80,$127.18,53.0%
+2025-03-05,North,USA,Electronics,Laptop Stand,S. Owusu,Wholesale,5,$24.99,$12.25,$124.95,$61.25,$63.70,51.0%
+2025-03-06,North,Canada,Electronics,Laptop Stand,R. Chen,Wholesale,10,$24.99,$12.25,$249.90,$122.50,$127.40,51.0%
+2025-03-06,West,UK,Electronics,Laptop Stand,J. Kim,Online,25,$24.99,$12.25,$624.75,$306.25,$318.50,51.0%
+2025-03-07,North,Canada,Apparel,Running Shoes,S. Owusu,Online,14,$74.99,$39.74,"$1,049.86",$556.36,$493.50,47.0%
+2025-03-07,South,Brazil,Office,Desk Chair,M. Silva,Retail Store,40,$179.99,$82.80,"$7,199.60","$3,312.00","$3,887.60",54.0%
+2025-03-07,East,India,Apparel,Running Shoes,R. Chen,Online,20,$74.99,$39.74,"$1,499.80",$794.80,$705.00,47.0%
+2025-03-07,West,Germany,Apparel,Sunglasses,T. Novak,Wholesale,17,$34.99,$19.24,$594.83,$327.08,$267.75,45.0%
+2025-03-07,North,Canada,Electronics,Bluetooth Speaker,L. Rossi,Online,4,$39.99,$20.39,$159.96,$81.56,$78.40,49.0%
+2025-03-08,North,Canada,Electronics,Laptop Stand,S. Owusu,Wholesale,28,$24.99,$12.25,$699.72,$343.00,$356.72,51.0%
+2025-03-08,North,USA,Apparel,Sunglasses,K. Ivanova,Online,27,$34.99,$19.24,$944.73,$519.48,$425.25,45.0%
+2025-03-08,East,India,Apparel,Running Shoes,A. Patel,Online,10,$74.99,$39.74,$749.90,$397.40,$352.50,47.0%
+2025-03-08,South,Argentina,Electronics,Bluetooth Speaker,K. Ivanova,Retail Store,10,$39.99,$20.39,$399.90,$203.90,$196.00,49.0%
+2025-03-08,North,Canada,Electronics,Wireless Earbuds,L. Rossi,Online,28,$59.99,$34.79,"$1,679.72",$974.12,$705.60,42.0%
+2025-03-08,West,UK,Electronics,Smart Watch,T. Novak,Online,5,$149.99,$69.00,$749.95,$345.00,$404.95,54.0%
+2025-03-08,South,Brazil,Apparel,Backpack,A. Patel,Retail Store,36,$54.99,$26.95,"$1,979.64",$970.20,"$1,009.44",51.0%
+2025-03-08,North,USA,Office,Desk Lamp,A. Patel,Retail Store,36,$29.99,$16.79,"$1,079.64",$604.44,$475.20,44.0%
+2025-03-09,South,Brazil,Electronics,Bluetooth Speaker,S. Owusu,Wholesale,30,$39.99,$20.39,"$1,199.70",$611.70,$588.00,49.0%
+2025-03-09,West,Germany,Office,Desk Lamp,A. Patel,Online,5,$29.99,$16.79,$149.95,$83.95,$66.00,44.0%
+2025-03-09,North,USA,Apparel,Jacket,K. Ivanova,Wholesale,30,$99.99,$46.00,"$2,999.70","$1,380.00","$1,619.70",54.0%
+2025-03-09,North,Canada,Office,Monitor Arm,T. Novak,Online,3,$64.99,$31.85,$194.97,$95.55,$99.42,51.0%
+2025-03-09,South,Argentina,Office,Desk Lamp,M. Silva,Wholesale,21,$29.99,$16.79,$629.79,$352.59,$277.20,44.0%
+2025-03-10,East,India,Home & Kitchen,Cookware Set,M. Silva,Retail Store,15,$119.99,$56.40,"$1,799.85",$846.00,$953.85,53.0%
+2025-03-10,West,Germany,Home & Kitchen,Cookware Set,K. Ivanova,Online,11,$119.99,$56.40,"$1,319.89",$620.40,$699.49,53.0%
+2025-03-10,North,USA,Electronics,Smart Watch,K. Ivanova,Retail Store,9,$149.99,$69.00,"$1,349.91",$621.00,$728.91,54.0%
+2025-03-10,North,Canada,Office,Notebook Set,R. Chen,Retail Store,30,$14.99,$8.69,$449.70,$260.70,$189.00,42.0%
+2025-03-11,West,Germany,Apparel,Sunglasses,M. Silva,Wholesale,7,$34.99,$19.24,$244.93,$134.68,$110.25,45.0%
+2025-03-11,North,USA,Electronics,Smart Watch,K. Ivanova,Online,27,$149.99,$69.00,"$4,049.73","$1,863.00","$2,186.73",54.0%
+2025-03-11,South,Argentina,Office,Notebook Set,M. Silva,Retail Store,36,$14.99,$8.69,$539.64,$312.84,$226.80,42.0%
+2025-03-11,North,USA,Home & Kitchen,Coffee Maker,A. Patel,Online,30,$69.99,$41.29,"$2,099.70","$1,238.70",$861.00,41.0%
+2025-03-12,East,Japan,Apparel,Running Shoes,A. Patel,Online,28,$74.99,$39.74,"$2,099.72","$1,112.72",$987.00,47.0%
+2025-03-12,West,UK,Apparel,Sunglasses,A. Patel,Wholesale,5,$34.99,$19.24,$174.95,$96.20,$78.75,45.0%
+2025-03-12,North,USA,Office,Desk Lamp,A. Patel,Online,31,$29.99,$16.79,$929.69,$520.49,$409.20,44.0%
+2025-03-13,North,USA,Apparel,Sunglasses,J. Kim,Online,35,$34.99,$19.24,"$1,224.65",$673.40,$551.25,45.0%
+2025-03-14,North,USA,Apparel,Sunglasses,L. Rossi,Online,11,$34.99,$19.24,$384.89,$211.64,$173.25,45.0%
+2025-03-14,South,Argentina,Apparel,Jacket,K. Ivanova,Online,4,$99.99,$46.00,$399.96,$184.00,$215.96,54.0%
+2025-03-14,South,Brazil,Home & Kitchen,Blender,R. Chen,Online,37,$44.99,$28.34,"$1,664.63","$1,048.58",$616.05,37.0%
+2025-03-14,North,Canada,Electronics,Bluetooth Speaker,M. Silva,Online,13,$39.99,$20.39,$519.87,$265.07,$254.80,49.0%
+2025-03-15,East,India,Home & Kitchen,Blender,L. Rossi,Wholesale,26,$44.99,$28.34,"$1,169.74",$736.84,$432.90,37.0%
+2025-03-15,West,UK,Apparel,Jacket,R. Chen,Retail Store,25,$99.99,$46.00,"$2,499.75","$1,150.00","$1,349.75",54.0%
+2025-03-15,East,India,Electronics,Laptop Stand,S. Owusu,Retail Store,12,$24.99,$12.25,$299.88,$147.00,$152.88,51.0%
+2025-03-16,West,UK,Home & Kitchen,Air Fryer,T. Novak,Retail Store,27,$89.99,$53.99,"$2,429.73","$1,457.73",$972.00,40.0%
+2025-03-16,North,Canada,Office,Notebook Set,M. Silva,Online,15,$14.99,$8.69,$224.85,$130.35,$94.50,42.0%
+2025-03-16,South,Argentina,Electronics,Smart Watch,L. Rossi,Online,34,$149.99,$69.00,"$5,099.66","$2,346.00","$2,753.66",54.0%
+2025-03-17,West,UK,Home & Kitchen,Cookware Set,S. Owusu,Wholesale,27,$119.99,$56.40,"$3,239.73","$1,522.80","$1,716.93",53.0%
+2025-03-17,South,Argentina,Electronics,Laptop Stand,A. Patel,Online,17,$24.99,$12.25,$424.83,$208.25,$216.58,51.0%
+2025-03-18,West,UK,Apparel,Jacket,T. Novak,Online,16,$99.99,$46.00,"$1,599.84",$736.00,$863.84,54.0%
+2025-03-18,South,Brazil,Apparel,Backpack,T. Novak,Retail Store,6,$54.99,$26.95,$329.94,$161.70,$168.24,51.0%
+2025-03-18,North,USA,Home & Kitchen,Cookware Set,K. Ivanova,Wholesale,5,$119.99,$56.40,$599.95,$282.00,$317.95,53.0%
+2025-03-19,North,Canada,Electronics,Bluetooth Speaker,J. Kim,Online,12,$39.99,$20.39,$479.88,$244.68,$235.20,49.0%
+2025-03-19,South,Brazil,Home & Kitchen,Coffee Maker,A. Patel,Retail Store,40,$69.99,$41.29,"$2,799.60","$1,651.60","$1,148.00",41.0%
+2025-03-19,West,UK,Home & Kitchen,Coffee Maker,A. Patel,Online,3,$69.99,$41.29,$209.97,$123.87,$86.10,41.0%
+2025-03-20,West,UK,Electronics,Wireless Earbuds,J. Kim,Online,24,$59.99,$34.79,"$1,439.76",$834.96,$604.80,42.0%
+2025-03-20,East,India,Home & Kitchen,Blender,R. Chen,Online,34,$44.99,$28.34,"$1,529.66",$963.56,$566.10,37.0%
+2025-03-20,North,Canada,Office,Desk Chair,R. Chen,Online,26,$179.99,$82.80,"$4,679.74","$2,152.80","$2,526.94",54.0%
+2025-03-21,West,Germany,Apparel,Sunglasses,S. Owusu,Retail Store,26,$34.99,$19.24,$909.74,$500.24,$409.50,45.0%
+2025-03-22,West,UK,Apparel,Jacket,J. Kim,Wholesale,20,$99.99,$46.00,"$1,999.80",$920.00,"$1,079.80",54.0%
+2025-03-22,North,USA,Home & Kitchen,Air Fryer,J. Kim,Retail Store,16,$89.99,$53.99,"$1,439.84",$863.84,$576.00,40.0%
+2025-03-22,South,Brazil,Electronics,Smart Watch,A. Patel,Online,39,$149.99,$69.00,"$5,849.61","$2,691.00","$3,158.61",54.0%
+2025-03-22,East,Japan,Office,Desk Chair,M. Silva,Retail Store,22,$179.99,$82.80,"$3,959.78","$1,821.60","$2,138.18",54.0%
+2025-03-23,North,Canada,Office,Desk Lamp,M. Silva,Retail Store,23,$29.99,$16.79,$689.77,$386.17,$303.60,44.0%
+2025-03-24,South,Brazil,Home & Kitchen,Air Fryer,M. Silva,Online,12,$89.99,$53.99,"$1,079.88",$647.88,$432.00,40.0%
+2025-03-25,West,Germany,Apparel,Sunglasses,T. Novak,Online,2,$34.99,$19.24,$69.98,$38.48,$31.50,45.0%
+2025-03-26,East,Japan,Home & Kitchen,Coffee Maker,T. Novak,Online,24,$69.99,$41.29,"$1,679.76",$990.96,$688.80,41.0%
+2025-03-26,West,UK,Office,Notebook Set,R. Chen,Wholesale,40,$14.99,$8.69,$599.60,$347.60,$252.00,42.0%
+2025-03-26,East,Japan,Electronics,Wireless Earbuds,A. Patel,Online,2,$59.99,$34.79,$119.98,$69.58,$50.40,42.0%
+2025-03-27,West,Germany,Office,Desk Chair,S. Owusu,Retail Store,28,$179.99,$82.80,"$5,039.72","$2,318.40","$2,721.32",54.0%
+2025-03-27,East,India,Apparel,Running Shoes,J. Kim,Online,33,$74.99,$39.74,"$2,474.67","$1,311.42","$1,163.25",47.0%
+2025-03-27,North,Canada,Office,Desk Chair,T. Novak,Online,5,$179.99,$82.80,$899.95,$414.00,$485.95,54.0%
+2025-03-27,West,Germany,Office,Notebook Set,L. Rossi,Online,31,$14.99,$8.69,$464.69,$269.39,$195.30,42.0%
+2025-03-27,South,Argentina,Home & Kitchen,Coffee Maker,M. Silva,Online,8,$69.99,$41.29,$559.92,$330.32,$229.60,41.0%
+2025-03-28,West,Germany,Electronics,Wireless Earbuds,T. Novak,Retail Store,24,$59.99,$34.79,"$1,439.76",$834.96,$604.80,42.0%
+2025-03-28,North,Canada,Home & Kitchen,Blender,R. Chen,Retail Store,26,$44.99,$28.34,"$1,169.74",$736.84,$432.90,37.0%
+2025-03-29,South,Brazil,Office,Desk Lamp,R. Chen,Retail Store,30,$29.99,$16.79,$899.70,$503.70,$396.00,44.0%
+2025-03-29,West,Germany,Office,Desk Lamp,T. Novak,Retail Store,40,$29.99,$16.79,"$1,199.60",$671.60,$528.00,44.0%
+2025-03-30,West,UK,Apparel,Backpack,J. Kim,Online,19,$54.99,$26.95,"$1,044.81",$512.05,$532.76,51.0%
+2025-03-31,East,India,Home & Kitchen,Cookware Set,J. Kim,Retail Store,31,$119.99,$56.40,"$3,719.69","$1,748.40","$1,971.29",53.0%
+2025-03-31,South,Argentina,Home & Kitchen,Blender,J. Kim,Online,3,$44.99,$28.34,$134.97,$85.02,$49.95,37.0%
+2025-03-31,West,Germany,Electronics,Bluetooth Speaker,L. Rossi,Retail Store,21,$39.99,$20.39,$839.79,$428.19,$411.60,49.0%
+2025-03-31,South,Argentina,Apparel,Jacket,T. Novak,Retail Store,16,$99.99,$46.00,"$1,599.84",$736.00,$863.84,54.0%
+2025-03-31,South,Argentina,Home & Kitchen,Blender,R. Chen,Online,2,$44.99,$28.34,$89.98,$56.68,$33.30,37.0%
+2025-04-01,South,Argentina,Apparel,Running Shoes,S. Owusu,Wholesale,37,$74.99,$39.74,"$2,774.63","$1,470.38","$1,304.25",47.0%
+2025-04-01,East,India,Electronics,Smart Watch,L. Rossi,Retail Store,8,$149.99,$69.00,"$1,199.92",$552.00,$647.92,54.0%
+2025-04-02,North,Canada,Home & Kitchen,Blender,R. Chen,Online,21,$44.99,$28.34,$944.79,$595.14,$349.65,37.0%
+2025-04-02,South,Argentina,Home & Kitchen,Cookware Set,S. Owusu,Wholesale,6,$119.99,$56.40,$719.94,$338.40,$381.54,53.0%
+2025-04-02,West,UK,Office,Monitor Arm,L. Rossi,Online,32,$64.99,$31.85,"$2,079.68","$1,019.20","$1,060.48",51.0%
+2025-04-02,West,Germany,Home & Kitchen,Cookware Set,R. Chen,Retail Store,18,$119.99,$56.40,"$2,159.82","$1,015.20","$1,144.62",53.0%
+2025-04-02,South,Argentina,Electronics,Wireless Earbuds,L. Rossi,Wholesale,20,$59.99,$34.79,"$1,199.80",$695.80,$504.00,42.0%
+2025-04-03,North,Canada,Home & Kitchen,Coffee Maker,K. Ivanova,Online,35,$69.99,$41.29,"$2,449.65","$1,445.15","$1,004.50",41.0%
+2025-04-04,North,Canada,Office,Notebook Set,R. Chen,Online,22,$14.99,$8.69,$329.78,$191.18,$138.60,42.0%
+2025-04-04,West,UK,Apparel,Backpack,S. Owusu,Online,39,$54.99,$26.95,"$2,144.61","$1,051.05","$1,093.56",51.0%
+2025-04-04,South,Argentina,Electronics,Laptop Stand,K. Ivanova,Online,40,$24.99,$12.25,$999.60,$490.00,$509.60,51.0%
+2025-04-04,West,UK,Electronics,Bluetooth Speaker,J. Kim,Wholesale,27,$39.99,$20.39,"$1,079.73",$550.53,$529.20,49.0%
+2025-04-05,North,Canada,Office,Desk Chair,J. Kim,Online,5,$179.99,$82.80,$899.95,$414.00,$485.95,54.0%
+2025-04-06,North,Canada,Electronics,Wireless Earbuds,L. Rossi,Wholesale,3,$59.99,$34.79,$179.97,$104.37,$75.60,42.0%
+2025-04-06,East,Japan,Electronics,Bluetooth Speaker,A. Patel,Online,13,$39.99,$20.39,$519.87,$265.07,$254.80,49.0%
+2025-04-06,South,Brazil,Office,Desk Chair,L. Rossi,Online,17,$179.99,$82.80,"$3,059.83","$1,407.60","$1,652.23",54.0%
+2025-04-06,North,Canada,Apparel,Jacket,K. Ivanova,Retail Store,15,$99.99,$46.00,"$1,499.85",$690.00,$809.85,54.0%
+2025-04-07,West,Germany,Apparel,Backpack,T. Novak,Online,11,$54.99,$26.95,$604.89,$296.45,$308.44,51.0%
+2025-04-08,South,Brazil,Home & Kitchen,Air Fryer,R. Chen,Online,5,$89.99,$53.99,$449.95,$269.95,$180.00,40.0%
+2025-04-09,South,Brazil,Office,Desk Chair,T. Novak,Wholesale,15,$179.99,$82.80,"$2,699.85","$1,242.00","$1,457.85",54.0%
+2025-04-09,North,USA,Apparel,Sunglasses,K. Ivanova,Retail Store,28,$34.99,$19.24,$979.72,$538.72,$441.00,45.0%
+2025-04-09,North,USA,Office,Desk Chair,J. Kim,Retail Store,35,$179.99,$82.80,"$6,299.65","$2,898.00","$3,401.65",54.0%
+2025-04-10,East,Japan,Office,Notebook Set,T. Novak,Retail Store,10,$14.99,$8.69,$149.90,$86.90,$63.00,42.0%
+2025-04-12,South,Brazil,Electronics,Smart Watch,K. Ivanova,Retail Store,5,$149.99,$69.00,$749.95,$345.00,$404.95,54.0%
+2025-04-12,South,Argentina,Apparel,Backpack,K. Ivanova,Retail Store,29,$54.99,$26.95,"$1,594.71",$781.55,$813.16,51.0%
+2025-04-12,East,India,Electronics,Laptop Stand,L. Rossi,Retail Store,10,$24.99,$12.25,$249.90,$122.50,$127.40,51.0%
+2025-04-13,South,Argentina,Apparel,Jacket,T. Novak,Wholesale,31,$99.99,$46.00,"$3,099.69","$1,426.00","$1,673.69",54.0%
+2025-04-14,North,Canada,Electronics,Laptop Stand,M. Silva,Online,31,$24.99,$12.25,$774.69,$379.75,$394.94,51.0%
+2025-04-14,East,India,Electronics,Wireless Earbuds,T. Novak,Online,30,$59.99,$34.79,"$1,799.70","$1,043.70",$756.00,42.0%
+2025-04-15,East,India,Apparel,Backpack,S. Owusu,Wholesale,9,$54.99,$26.95,$494.91,$242.55,$252.36,51.0%
+2025-04-15,West,Germany,Home & Kitchen,Blender,K. Ivanova,Online,20,$44.99,$28.34,$899.80,$566.80,$333.00,37.0%
+2025-04-15,South,Argentina,Home & Kitchen,Coffee Maker,L. Rossi,Wholesale,36,$69.99,$41.29,"$2,519.64","$1,486.44","$1,033.20",41.0%
+2025-04-17,West,Germany,Home & Kitchen,Air Fryer,A. Patel,Retail Store,8,$89.99,$53.99,$719.92,$431.92,$288.00,40.0%
+2025-04-17,East,Japan,Electronics,Smart Watch,T. Novak,Retail Store,22,$149.99,$69.00,"$3,299.78","$1,518.00","$1,781.78",54.0%
+2025-04-18,East,India,Home & Kitchen,Coffee Maker,M. Silva,Online,18,$69.99,$41.29,"$1,259.82",$743.22,$516.60,41.0%
+2025-04-18,South,Argentina,Electronics,Smart Watch,A. Patel,Online,38,$149.99,$69.00,"$5,699.62","$2,622.00","$3,077.62",54.0%
+2025-04-18,South,Brazil,Electronics,Wireless Earbuds,K. Ivanova,Retail Store,39,$59.99,$34.79,"$2,339.61","$1,356.81",$982.80,42.0%
+2025-04-19,North,USA,Electronics,Bluetooth Speaker,A. Patel,Online,17,$39.99,$20.39,$679.83,$346.63,$333.20,49.0%
+2025-04-20,East,Japan,Home & Kitchen,Air Fryer,M. Silva,Wholesale,29,$89.99,$53.99,"$2,609.71","$1,565.71","$1,044.00",40.0%
+2025-04-20,South,Argentina,Apparel,Jacket,J. Kim,Retail Store,38,$99.99,$46.00,"$3,799.62","$1,748.00","$2,051.62",54.0%
+2025-04-20,West,Germany,Home & Kitchen,Cookware Set,J. Kim,Online,23,$119.99,$56.40,"$2,759.77","$1,297.20","$1,462.57",53.0%
+2025-04-20,East,Japan,Office,Notebook Set,A. Patel,Online,24,$14.99,$8.69,$359.76,$208.56,$151.20,42.0%
+2025-04-21,East,India,Electronics,Laptop Stand,J. Kim,Online,23,$24.99,$12.25,$574.77,$281.75,$293.02,51.0%
+2025-04-21,West,UK,Apparel,Running Shoes,L. Rossi,Online,38,$74.99,$39.74,"$2,849.62","$1,510.12","$1,339.50",47.0%
+2025-04-22,North,USA,Office,Notebook Set,J. Kim,Online,4,$14.99,$8.69,$59.96,$34.76,$25.20,42.0%
+2025-04-22,North,Canada,Office,Monitor Arm,K. Ivanova,Retail Store,37,$64.99,$31.85,"$2,404.63","$1,178.45","$1,226.18",51.0%
+2025-04-22,East,Japan,Office,Monitor Arm,S. Owusu,Online,6,$64.99,$31.85,$389.94,$191.10,$198.84,51.0%
+2025-04-23,West,Germany,Electronics,Smart Watch,L. Rossi,Online,10,$149.99,$69.00,"$1,499.90",$690.00,$809.90,54.0%
+2025-04-23,South,Argentina,Home & Kitchen,Air Fryer,A. Patel,Online,29,$89.99,$53.99,"$2,609.71","$1,565.71","$1,044.00",40.0%
+2025-04-23,South,Argentina,Home & Kitchen,Cookware Set,S. Owusu,Online,36,$119.99,$56.40,"$4,319.64","$2,030.40","$2,289.24",53.0%
+2025-04-23,North,USA,Office,Notebook Set,L. Rossi,Online,37,$14.99,$8.69,$554.63,$321.53,$233.10,42.0%
+2025-04-24,South,Argentina,Apparel,Backpack,R. Chen,Online,13,$54.99,$26.95,$714.87,$350.35,$364.52,51.0%
+2025-04-24,South,Brazil,Office,Notebook Set,J. Kim,Retail Store,17,$14.99,$8.69,$254.83,$147.73,$107.10,42.0%
+2025-04-24,North,Canada,Home & Kitchen,Blender,J. Kim,Online,21,$44.99,$28.34,$944.79,$595.14,$349.65,37.0%
+2025-04-25,North,Canada,Apparel,Running Shoes,T. Novak,Retail Store,28,$74.99,$39.74,"$2,099.72","$1,112.72",$987.00,47.0%
+2025-04-25,East,Japan,Apparel,Sunglasses,L. Rossi,Wholesale,30,$34.99,$19.24,"$1,049.70",$577.20,$472.50,45.0%
+2025-04-25,West,UK,Apparel,Running Shoes,L. Rossi,Online,21,$74.99,$39.74,"$1,574.79",$834.54,$740.25,47.0%
+2025-04-25,North,USA,Home & Kitchen,Blender,T. Novak,Wholesale,31,$44.99,$28.34,"$1,394.69",$878.54,$516.15,37.0%
+2025-04-25,North,Canada,Office,Desk Lamp,S. Owusu,Online,13,$29.99,$16.79,$389.87,$218.27,$171.60,44.0%
+2025-04-26,East,Japan,Home & Kitchen,Cookware Set,S. Owusu,Online,36,$119.99,$56.40,"$4,319.64","$2,030.40","$2,289.24",53.0%
+2025-04-26,West,UK,Electronics,Bluetooth Speaker,J. Kim,Wholesale,28,$39.99,$20.39,"$1,119.72",$570.92,$548.80,49.0%
+2025-04-26,South,Argentina,Office,Desk Chair,T. Novak,Online,33,$179.99,$82.80,"$5,939.67","$2,732.40","$3,207.27",54.0%
+2025-04-27,North,USA,Office,Monitor Arm,L. Rossi,Wholesale,5,$64.99,$31.85,$324.95,$159.25,$165.70,51.0%
+2025-04-27,West,Germany,Apparel,Running Shoes,M. Silva,Online,30,$74.99,$39.74,"$2,249.70","$1,192.20","$1,057.50",47.0%
+2025-04-29,North,Canada,Office,Notebook Set,A. Patel,Retail Store,29,$14.99,$8.69,$434.71,$252.01,$182.70,42.0%
+2025-04-29,South,Argentina,Office,Monitor Arm,T. Novak,Retail Store,25,$64.99,$31.85,"$1,624.75",$796.25,$828.50,51.0%
+2025-04-30,North,Canada,Apparel,Sunglasses,S. Owusu,Online,23,$34.99,$19.24,$804.77,$442.52,$362.25,45.0%
+2025-04-30,South,Brazil,Office,Desk Chair,S. Owusu,Wholesale,13,$179.99,$82.80,"$2,339.87","$1,076.40","$1,263.47",54.0%
+2025-04-30,North,Canada,Office,Desk Lamp,L. Rossi,Wholesale,40,$29.99,$16.79,"$1,199.60",$671.60,$528.00,44.0%
+2025-05-01,North,USA,Apparel,Sunglasses,J. Kim,Online,8,$34.99,$19.24,$279.92,$153.92,$126.00,45.0%
+2025-05-01,West,UK,Apparel,Sunglasses,J. Kim,Online,9,$34.99,$19.24,$314.91,$173.16,$141.75,45.0%
+2025-05-02,West,UK,Apparel,Backpack,K. Ivanova,Retail Store,36,$54.99,$26.95,"$1,979.64",$970.20,"$1,009.44",51.0%
+2025-05-02,South,Argentina,Office,Monitor Arm,M. Silva,Retail Store,14,$64.99,$31.85,$909.86,$445.90,$463.96,51.0%
+2025-05-03,South,Brazil,Home & Kitchen,Coffee Maker,A. Patel,Online,22,$69.99,$41.29,"$1,539.78",$908.38,$631.40,41.0%
+2025-05-03,North,USA,Electronics,Laptop Stand,J. Kim,Online,39,$24.99,$12.25,$974.61,$477.75,$496.86,51.0%
+2025-05-04,South,Argentina,Office,Desk Chair,S. Owusu,Online,27,$179.99,$82.80,"$4,859.73","$2,235.60","$2,624.13",54.0%
+2025-05-04,North,Canada,Home & Kitchen,Air Fryer,S. Owusu,Online,12,$89.99,$53.99,"$1,079.88",$647.88,$432.00,40.0%
+2025-05-04,South,Brazil,Apparel,Sunglasses,J. Kim,Online,35,$34.99,$19.24,"$1,224.65",$673.40,$551.25,45.0%
+2025-05-05,South,Argentina,Electronics,Bluetooth Speaker,J. Kim,Online,31,$39.99,$20.39,"$1,239.69",$632.09,$607.60,49.0%
+2025-05-06,West,UK,Office,Desk Chair,R. Chen,Online,26,$179.99,$82.80,"$4,679.74","$2,152.80","$2,526.94",54.0%
+2025-05-06,East,India,Electronics,Smart Watch,M. Silva,Online,23,$149.99,$69.00,"$3,449.77","$1,587.00","$1,862.77",54.0%
+2025-05-07,South,Argentina,Electronics,Smart Watch,L. Rossi,Online,12,$149.99,$69.00,"$1,799.88",$828.00,$971.88,54.0%
+2025-05-07,North,Canada,Home & Kitchen,Blender,K. Ivanova,Online,28,$44.99,$28.34,"$1,259.72",$793.52,$466.20,37.0%
+2025-05-08,East,India,Apparel,Jacket,R. Chen,Retail Store,19,$99.99,$46.00,"$1,899.81",$874.00,"$1,025.81",54.0%
+2025-05-08,East,India,Office,Notebook Set,J. Kim,Retail Store,12,$14.99,$8.69,$179.88,$104.28,$75.60,42.0%
+2025-05-08,West,Germany,Home & Kitchen,Air Fryer,R. Chen,Online,7,$89.99,$53.99,$629.93,$377.93,$252.00,40.0%
+2025-05-09,North,USA,Home & Kitchen,Air Fryer,T. Novak,Retail Store,12,$89.99,$53.99,"$1,079.88",$647.88,$432.00,40.0%
+2025-05-09,North,Canada,Home & Kitchen,Air Fryer,L. Rossi,Retail Store,15,$89.99,$53.99,"$1,349.85",$809.85,$540.00,40.0%
+2025-05-09,West,Germany,Office,Monitor Arm,S. Owusu,Wholesale,30,$64.99,$31.85,"$1,949.70",$955.50,$994.20,51.0%
+2025-05-09,North,Canada,Office,Notebook Set,K. Ivanova,Online,12,$14.99,$8.69,$179.88,$104.28,$75.60,42.0%
+2025-05-10,South,Argentina,Office,Desk Chair,K. Ivanova,Wholesale,31,$179.99,$82.80,"$5,579.69","$2,566.80","$3,012.89",54.0%
+2025-05-10,South,Argentina,Apparel,Sunglasses,J. Kim,Online,24,$34.99,$19.24,$839.76,$461.76,$378.00,45.0%
+2025-05-10,South,Argentina,Apparel,Backpack,A. Patel,Retail Store,39,$54.99,$26.95,"$2,144.61","$1,051.05","$1,093.56",51.0%
+2025-05-10,East,Japan,Electronics,Wireless Earbuds,J. Kim,Retail Store,30,$59.99,$34.79,"$1,799.70","$1,043.70",$756.00,42.0%
+2025-05-11,North,Canada,Apparel,Backpack,A. Patel,Online,22,$54.99,$26.95,"$1,209.78",$592.90,$616.88,51.0%
+2025-05-11,West,Germany,Home & Kitchen,Coffee Maker,S. Owusu,Retail Store,12,$69.99,$41.29,$839.88,$495.48,$344.40,41.0%
+2025-05-12,South,Brazil,Home & Kitchen,Air Fryer,M. Silva,Wholesale,32,$89.99,$53.99,"$2,879.68","$1,727.68","$1,152.00",40.0%
+2025-05-14,North,USA,Apparel,Jacket,L. Rossi,Online,5,$99.99,$46.00,$499.95,$230.00,$269.95,54.0%
+2025-05-14,South,Argentina,Apparel,Jacket,J. Kim,Online,12,$99.99,$46.00,"$1,199.88",$552.00,$647.88,54.0%
+2025-05-14,East,India,Home & Kitchen,Air Fryer,J. Kim,Online,8,$89.99,$53.99,$719.92,$431.92,$288.00,40.0%
+2025-05-15,South,Brazil,Electronics,Laptop Stand,T. Novak,Retail Store,33,$24.99,$12.25,$824.67,$404.25,$420.42,51.0%
+2025-05-15,West,Germany,Apparel,Jacket,T. Novak,Retail Store,10,$99.99,$46.00,$999.90,$460.00,$539.90,54.0%
+2025-05-15,South,Argentina,Office,Notebook Set,M. Silva,Online,32,$14.99,$8.69,$479.68,$278.08,$201.60,42.0%
+2025-05-15,West,Germany,Apparel,Backpack,S. Owusu,Online,38,$54.99,$26.95,"$2,089.62","$1,024.10","$1,065.52",51.0%
+2025-05-16,South,Argentina,Office,Desk Chair,R. Chen,Online,9,$179.99,$82.80,"$1,619.91",$745.20,$874.71,54.0%
+2025-05-17,South,Brazil,Electronics,Smart Watch,T. Novak,Retail Store,37,$149.99,$69.00,"$5,549.63","$2,553.00","$2,996.63",54.0%
+2025-05-17,North,Canada,Electronics,Laptop Stand,M. Silva,Online,21,$24.99,$12.25,$524.79,$257.25,$267.54,51.0%
+2025-05-17,East,India,Apparel,Jacket,L. Rossi,Online,10,$99.99,$46.00,$999.90,$460.00,$539.90,54.0%
+2025-05-18,North,USA,Apparel,Jacket,K. Ivanova,Online,30,$99.99,$46.00,"$2,999.70","$1,380.00","$1,619.70",54.0%
+2025-05-18,East,Japan,Apparel,Jacket,K. Ivanova,Retail Store,4,$99.99,$46.00,$399.96,$184.00,$215.96,54.0%
+2025-05-18,East,India,Apparel,Backpack,T. Novak,Online,32,$54.99,$26.95,"$1,759.68",$862.40,$897.28,51.0%
+2025-05-18,West,UK,Home & Kitchen,Cookware Set,R. Chen,Wholesale,27,$119.99,$56.40,"$3,239.73","$1,522.80","$1,716.93",53.0%
+2025-05-18,West,Germany,Apparel,Jacket,K. Ivanova,Online,27,$99.99,$46.00,"$2,699.73","$1,242.00","$1,457.73",54.0%
+2025-05-18,West,UK,Home & Kitchen,Blender,K. Ivanova,Online,10,$44.99,$28.34,$449.90,$283.40,$166.50,37.0%
+2025-05-19,North,Canada,Electronics,Wireless Earbuds,M. Silva,Online,34,$59.99,$34.79,"$2,039.66","$1,182.86",$856.80,42.0%
+2025-05-20,East,India,Apparel,Jacket,T. Novak,Online,17,$99.99,$46.00,"$1,699.83",$782.00,$917.83,54.0%
+2025-05-20,East,Japan,Electronics,Smart Watch,M. Silva,Online,10,$149.99,$69.00,"$1,499.90",$690.00,$809.90,54.0%
+2025-05-20,South,Brazil,Apparel,Jacket,K. Ivanova,Retail Store,12,$99.99,$46.00,"$1,199.88",$552.00,$647.88,54.0%
+2025-05-20,West,Germany,Office,Monitor Arm,J. Kim,Online,4,$64.99,$31.85,$259.96,$127.40,$132.56,51.0%
+2025-05-20,South,Brazil,Home & Kitchen,Cookware Set,J. Kim,Online,32,$119.99,$56.40,"$3,839.68","$1,804.80","$2,034.88",53.0%
+2025-05-20,East,Japan,Apparel,Jacket,T. Novak,Online,35,$99.99,$46.00,"$3,499.65","$1,610.00","$1,889.65",54.0%
+2025-05-20,South,Argentina,Apparel,Jacket,K. Ivanova,Wholesale,22,$99.99,$46.00,"$2,199.78","$1,012.00","$1,187.78",54.0%
+2025-05-21,North,USA,Office,Notebook Set,R. Chen,Retail Store,23,$14.99,$8.69,$344.77,$199.87,$144.90,42.0%
+2025-05-21,North,USA,Office,Notebook Set,M. Silva,Wholesale,10,$14.99,$8.69,$149.90,$86.90,$63.00,42.0%
+2025-05-21,East,India,Office,Desk Lamp,S. Owusu,Wholesale,10,$29.99,$16.79,$299.90,$167.90,$132.00,44.0%
+2025-05-21,East,Japan,Home & Kitchen,Air Fryer,R. Chen,Retail Store,32,$89.99,$53.99,"$2,879.68","$1,727.68","$1,152.00",40.0%
+2025-05-21,West,UK,Apparel,Sunglasses,R. Chen,Retail Store,9,$34.99,$19.24,$314.91,$173.16,$141.75,45.0%
+2025-05-21,South,Argentina,Home & Kitchen,Blender,M. Silva,Online,38,$44.99,$28.34,"$1,709.62","$1,076.92",$632.70,37.0%
+2025-05-22,North,Canada,Office,Desk Chair,T. Novak,Online,22,$179.99,$82.80,"$3,959.78","$1,821.60","$2,138.18",54.0%
+2025-05-22,North,Canada,Office,Notebook Set,A. Patel,Online,17,$14.99,$8.69,$254.83,$147.73,$107.10,42.0%
+2025-05-22,North,USA,Apparel,Backpack,K. Ivanova,Online,34,$54.99,$26.95,"$1,869.66",$916.30,$953.36,51.0%
+2025-05-23,West,UK,Office,Desk Lamp,S. Owusu,Online,21,$29.99,$16.79,$629.79,$352.59,$277.20,44.0%
+2025-05-23,North,Canada,Home & Kitchen,Coffee Maker,S. Owusu,Online,15,$69.99,$41.29,"$1,049.85",$619.35,$430.50,41.0%
+2025-05-23,East,Japan,Home & Kitchen,Coffee Maker,J. Kim,Online,38,$69.99,$41.29,"$2,659.62","$1,569.02","$1,090.60",41.0%
+2025-05-23,North,USA,Electronics,Bluetooth Speaker,J. Kim,Retail Store,6,$39.99,$20.39,$239.94,$122.34,$117.60,49.0%
+2025-05-24,North,USA,Electronics,Laptop Stand,S. Owusu,Retail Store,22,$24.99,$12.25,$549.78,$269.50,$280.28,51.0%
+2025-05-24,South,Brazil,Apparel,Running Shoes,J. Kim,Wholesale,33,$74.99,$39.74,"$2,474.67","$1,311.42","$1,163.25",47.0%
+2025-05-24,West,UK,Electronics,Smart Watch,K. Ivanova,Retail Store,5,$149.99,$69.00,$749.95,$345.00,$404.95,54.0%
+2025-05-24,West,UK,Apparel,Backpack,T. Novak,Wholesale,29,$54.99,$26.95,"$1,594.71",$781.55,$813.16,51.0%
+2025-05-24,East,India,Electronics,Bluetooth Speaker,R. Chen,Online,32,$39.99,$20.39,"$1,279.68",$652.48,$627.20,49.0%
+2025-05-25,North,Canada,Office,Desk Lamp,A. Patel,Online,13,$29.99,$16.79,$389.87,$218.27,$171.60,44.0%
+2025-05-26,West,UK,Home & Kitchen,Blender,K. Ivanova,Wholesale,13,$44.99,$28.34,$584.87,$368.42,$216.45,37.0%
+2025-05-26,North,Canada,Home & Kitchen,Blender,M. Silva,Retail Store,40,$44.99,$28.34,"$1,799.60","$1,133.60",$666.00,37.0%
+2025-05-26,South,Argentina,Apparel,Backpack,K. Ivanova,Online,4,$54.99,$26.95,$219.96,$107.80,$112.16,51.0%
+2025-05-26,East,Japan,Apparel,Sunglasses,J. Kim,Online,29,$34.99,$19.24,"$1,014.71",$557.96,$456.75,45.0%
+2025-05-27,West,Germany,Home & Kitchen,Coffee Maker,T. Novak,Online,4,$69.99,$41.29,$279.96,$165.16,$114.80,41.0%
+2025-05-28,West,UK,Office,Notebook Set,L. Rossi,Wholesale,33,$14.99,$8.69,$494.67,$286.77,$207.90,42.0%
+2025-05-28,West,UK,Office,Desk Chair,S. Owusu,Online,8,$179.99,$82.80,"$1,439.92",$662.40,$777.52,54.0%
+2025-05-28,West,Germany,Home & Kitchen,Cookware Set,R. Chen,Retail Store,19,$119.99,$56.40,"$2,279.81","$1,071.60","$1,208.21",53.0%
+2025-05-29,North,Canada,Electronics,Bluetooth Speaker,M. Silva,Retail Store,40,$39.99,$20.39,"$1,599.60",$815.60,$784.00,49.0%
+2025-05-29,North,Canada,Electronics,Bluetooth Speaker,K. Ivanova,Retail Store,31,$39.99,$20.39,"$1,239.69",$632.09,$607.60,49.0%
+2025-05-29,East,Japan,Office,Desk Chair,J. Kim,Wholesale,3,$179.99,$82.80,$539.97,$248.40,$291.57,54.0%
+2025-05-29,West,UK,Apparel,Running Shoes,A. Patel,Online,19,$74.99,$39.74,"$1,424.81",$755.06,$669.75,47.0%
+2025-05-30,South,Brazil,Apparel,Jacket,L. Rossi,Wholesale,28,$99.99,$46.00,"$2,799.72","$1,288.00","$1,511.72",54.0%
+2025-05-30,West,UK,Electronics,Bluetooth Speaker,S. Owusu,Online,34,$39.99,$20.39,"$1,359.66",$693.26,$666.40,49.0%
+2025-05-30,East,India,Home & Kitchen,Air Fryer,R. Chen,Online,36,$89.99,$53.99,"$3,239.64","$1,943.64","$1,296.00",40.0%
+2025-05-31,East,Japan,Office,Monitor Arm,R. Chen,Online,37,$64.99,$31.85,"$2,404.63","$1,178.45","$1,226.18",51.0%
+2025-05-31,West,UK,Home & Kitchen,Cookware Set,T. Novak,Retail Store,36,$119.99,$56.40,"$4,319.64","$2,030.40","$2,289.24",53.0%
+2025-06-01,East,India,Office,Desk Chair,M. Silva,Retail Store,15,$179.99,$82.80,"$2,699.85","$1,242.00","$1,457.85",54.0%
+2025-06-02,West,Germany,Home & Kitchen,Cookware Set,R. Chen,Online,32,$119.99,$56.40,"$3,839.68","$1,804.80","$2,034.88",53.0%
+2025-06-02,West,UK,Electronics,Smart Watch,K. Ivanova,Online,30,$149.99,$69.00,"$4,499.70","$2,070.00","$2,429.70",54.0%
+2025-06-02,North,Canada,Apparel,Backpack,J. Kim,Online,8,$54.99,$26.95,$439.92,$215.60,$224.32,51.0%
+2025-06-02,East,Japan,Apparel,Sunglasses,M. Silva,Online,32,$34.99,$19.24,"$1,119.68",$615.68,$504.00,45.0%
+2025-06-02,East,India,Home & Kitchen,Air Fryer,A. Patel,Online,39,$89.99,$53.99,"$3,509.61","$2,105.61","$1,404.00",40.0%
+2025-06-02,West,UK,Apparel,Jacket,L. Rossi,Wholesale,17,$99.99,$46.00,"$1,699.83",$782.00,$917.83,54.0%
+2025-06-03,North,USA,Apparel,Running Shoes,J. Kim,Retail Store,10,$74.99,$39.74,$749.90,$397.40,$352.50,47.0%
+2025-06-03,East,Japan,Apparel,Sunglasses,T. Novak,Retail Store,13,$34.99,$19.24,$454.87,$250.12,$204.75,45.0%
+2025-06-03,South,Brazil,Apparel,Jacket,J. Kim,Wholesale,9,$99.99,$46.00,$899.91,$414.00,$485.91,54.0%
+2025-06-03,East,Japan,Office,Desk Chair,L. Rossi,Retail Store,5,$179.99,$82.80,$899.95,$414.00,$485.95,54.0%
+2025-06-03,West,UK,Apparel,Sunglasses,J. Kim,Wholesale,29,$34.99,$19.24,"$1,014.71",$557.96,$456.75,45.0%
+2025-06-04,West,UK,Electronics,Laptop Stand,L. Rossi,Online,7,$24.99,$12.25,$174.93,$85.75,$89.18,51.0%
+2025-06-04,West,UK,Apparel,Jacket,L. Rossi,Retail Store,7,$99.99,$46.00,$699.93,$322.00,$377.93,54.0%
+2025-06-04,North,USA,Apparel,Jacket,M. Silva,Wholesale,21,$99.99,$46.00,"$2,099.79",$966.00,"$1,133.79",54.0%
+2025-06-05,North,USA,Home & Kitchen,Air Fryer,K. Ivanova,Wholesale,39,$89.99,$53.99,"$3,509.61","$2,105.61","$1,404.00",40.0%
+2025-06-05,North,Canada,Apparel,Sunglasses,S. Owusu,Online,28,$34.99,$19.24,$979.72,$538.72,$441.00,45.0%
+2025-06-05,East,Japan,Home & Kitchen,Cookware Set,T. Novak,Retail Store,4,$119.99,$56.40,$479.96,$225.60,$254.36,53.0%
+2025-06-05,East,India,Office,Monitor Arm,A. Patel,Retail Store,19,$64.99,$31.85,"$1,234.81",$605.15,$629.66,51.0%
+2025-06-05,East,Japan,Electronics,Bluetooth Speaker,M. Silva,Retail Store,29,$39.99,$20.39,"$1,159.71",$591.31,$568.40,49.0%
+2025-06-07,South,Argentina,Apparel,Running Shoes,T. Novak,Online,15,$74.99,$39.74,"$1,124.85",$596.10,$528.75,47.0%
+2025-06-07,North,USA,Home & Kitchen,Cookware Set,K. Ivanova,Wholesale,10,$119.99,$56.40,"$1,199.90",$564.00,$635.90,53.0%
+2025-06-07,West,UK,Electronics,Bluetooth Speaker,M. Silva,Online,4,$39.99,$20.39,$159.96,$81.56,$78.40,49.0%
+2025-06-09,South,Brazil,Office,Notebook Set,M. Silva,Online,3,$14.99,$8.69,$44.97,$26.07,$18.90,42.0%
+2025-06-09,West,UK,Office,Notebook Set,L. Rossi,Online,5,$14.99,$8.69,$74.95,$43.45,$31.50,42.0%
+2025-06-09,East,India,Electronics,Wireless Earbuds,T. Novak,Online,20,$59.99,$34.79,"$1,199.80",$695.80,$504.00,42.0%
+2025-06-10,North,USA,Office,Notebook Set,R. Chen,Retail Store,11,$14.99,$8.69,$164.89,$95.59,$69.30,42.0%
+2025-06-10,South,Brazil,Home & Kitchen,Blender,S. Owusu,Wholesale,9,$44.99,$28.34,$404.91,$255.06,$149.85,37.0%
+2025-06-10,North,USA,Electronics,Wireless Earbuds,L. Rossi,Online,7,$59.99,$34.79,$419.93,$243.53,$176.40,42.0%
+2025-06-10,East,India,Office,Notebook Set,J. Kim,Online,9,$14.99,$8.69,$134.91,$78.21,$56.70,42.0%
+2025-06-10,East,Japan,Home & Kitchen,Cookware Set,R. Chen,Online,12,$119.99,$56.40,"$1,439.88",$676.80,$763.08,53.0%
+2025-06-10,West,Germany,Apparel,Backpack,M. Silva,Online,6,$54.99,$26.95,$329.94,$161.70,$168.24,51.0%
+2025-06-11,North,USA,Home & Kitchen,Coffee Maker,K. Ivanova,Online,38,$69.99,$41.29,"$2,659.62","$1,569.02","$1,090.60",41.0%
+2025-06-12,East,Japan,Home & Kitchen,Air Fryer,L. Rossi,Online,9,$89.99,$53.99,$809.91,$485.91,$324.00,40.0%
+2025-06-13,North,Canada,Home & Kitchen,Coffee Maker,A. Patel,Online,31,$69.99,$41.29,"$2,169.69","$1,279.99",$889.70,41.0%
+2025-06-13,South,Argentina,Apparel,Sunglasses,A. Patel,Retail Store,15,$34.99,$19.24,$524.85,$288.60,$236.25,45.0%
+2025-06-13,East,Japan,Home & Kitchen,Blender,L. Rossi,Online,26,$44.99,$28.34,"$1,169.74",$736.84,$432.90,37.0%
+2025-06-13,South,Brazil,Apparel,Backpack,K. Ivanova,Wholesale,37,$54.99,$26.95,"$2,034.63",$997.15,"$1,037.48",51.0%
+2025-06-13,West,UK,Apparel,Jacket,A. Patel,Online,27,$99.99,$46.00,"$2,699.73","$1,242.00","$1,457.73",54.0%
+2025-06-14,South,Brazil,Electronics,Smart Watch,R. Chen,Retail Store,23,$149.99,$69.00,"$3,449.77","$1,587.00","$1,862.77",54.0%
+2025-06-14,North,USA,Home & Kitchen,Air Fryer,J. Kim,Online,14,$89.99,$53.99,"$1,259.86",$755.86,$504.00,40.0%
+2025-06-15,South,Brazil,Office,Notebook Set,S. Owusu,Wholesale,29,$14.99,$8.69,$434.71,$252.01,$182.70,42.0%
+2025-06-15,West,UK,Office,Desk Lamp,T. Novak,Online,36,$29.99,$16.79,"$1,079.64",$604.44,$475.20,44.0%
+2025-06-16,North,USA,Home & Kitchen,Coffee Maker,A. Patel,Retail Store,18,$69.99,$41.29,"$1,259.82",$743.22,$516.60,41.0%
+2025-06-16,West,Germany,Apparel,Jacket,K. Ivanova,Wholesale,22,$99.99,$46.00,"$2,199.78","$1,012.00","$1,187.78",54.0%
+2025-06-16,East,Japan,Electronics,Laptop Stand,J. Kim,Online,10,$24.99,$12.25,$249.90,$122.50,$127.40,51.0%
+2025-06-16,West,Germany,Electronics,Wireless Earbuds,K. Ivanova,Online,31,$59.99,$34.79,"$1,859.69","$1,078.49",$781.20,42.0%
+2025-06-16,North,Canada,Office,Desk Lamp,L. Rossi,Online,16,$29.99,$16.79,$479.84,$268.64,$211.20,44.0%
+2025-06-16,North,Canada,Office,Desk Lamp,T. Novak,Online,31,$29.99,$16.79,$929.69,$520.49,$409.20,44.0%
+2025-06-17,East,India,Home & Kitchen,Cookware Set,K. Ivanova,Online,20,$119.99,$56.40,"$2,399.80","$1,128.00","$1,271.80",53.0%
+2025-06-17,North,Canada,Electronics,Smart Watch,M. Silva,Online,16,$149.99,$69.00,"$2,399.84","$1,104.00","$1,295.84",54.0%
+2025-06-17,North,USA,Home & Kitchen,Blender,R. Chen,Online,35,$44.99,$28.34,"$1,574.65",$991.90,$582.75,37.0%
+2025-06-19,North,USA,Apparel,Sunglasses,R. Chen,Online,37,$34.99,$19.24,"$1,294.63",$711.88,$582.75,45.0%
+2025-06-19,East,Japan,Apparel,Backpack,T. Novak,Online,13,$54.99,$26.95,$714.87,$350.35,$364.52,51.0%
+2025-06-19,North,Canada,Electronics,Laptop Stand,A. Patel,Retail Store,27,$24.99,$12.25,$674.73,$330.75,$343.98,51.0%
+2025-06-20,West,Germany,Home & Kitchen,Coffee Maker,S. Owusu,Wholesale,21,$69.99,$41.29,"$1,469.79",$867.09,$602.70,41.0%
+2025-06-20,East,Japan,Electronics,Wireless Earbuds,S. Owusu,Online,22,$59.99,$34.79,"$1,319.78",$765.38,$554.40,42.0%
+2025-06-20,West,UK,Home & Kitchen,Blender,J. Kim,Online,39,$44.99,$28.34,"$1,754.61","$1,105.26",$649.35,37.0%
+2025-06-21,West,Germany,Electronics,Bluetooth Speaker,S. Owusu,Retail Store,2,$39.99,$20.39,$79.98,$40.78,$39.20,49.0%
+2025-06-21,North,Canada,Electronics,Wireless Earbuds,L. Rossi,Retail Store,18,$59.99,$34.79,"$1,079.82",$626.22,$453.60,42.0%
+2025-06-21,North,USA,Home & Kitchen,Cookware Set,J. Kim,Wholesale,13,$119.99,$56.40,"$1,559.87",$733.20,$826.67,53.0%
+2025-06-23,East,India,Home & Kitchen,Coffee Maker,L. Rossi,Online,2,$69.99,$41.29,$139.98,$82.58,$57.40,41.0%
+2025-06-23,North,USA,Apparel,Jacket,J. Kim,Online,15,$99.99,$46.00,"$1,499.85",$690.00,$809.85,54.0%
+2025-06-23,South,Argentina,Office,Monitor Arm,S. Owusu,Retail Store,11,$64.99,$31.85,$714.89,$350.35,$364.54,51.0%
+2025-06-24,East,India,Apparel,Backpack,K. Ivanova,Wholesale,29,$54.99,$26.95,"$1,594.71",$781.55,$813.16,51.0%
+2025-06-24,West,UK,Home & Kitchen,Coffee Maker,M. Silva,Online,7,$69.99,$41.29,$489.93,$289.03,$200.90,41.0%
+2025-06-24,West,UK,Home & Kitchen,Coffee Maker,S. Owusu,Retail Store,31,$69.99,$41.29,"$2,169.69","$1,279.99",$889.70,41.0%
+2025-06-24,East,India,Electronics,Bluetooth Speaker,S. Owusu,Retail Store,27,$39.99,$20.39,"$1,079.73",$550.53,$529.20,49.0%
+2025-06-26,South,Brazil,Home & Kitchen,Cookware Set,A. Patel,Retail Store,34,$119.99,$56.40,"$4,079.66","$1,917.60","$2,162.06",53.0%
+2025-06-26,East,Japan,Apparel,Jacket,A. Patel,Online,15,$99.99,$46.00,"$1,499.85",$690.00,$809.85,54.0%
+2025-06-26,East,Japan,Electronics,Laptop Stand,K. Ivanova,Online,28,$24.99,$12.25,$699.72,$343.00,$356.72,51.0%
+2025-06-26,North,Canada,Home & Kitchen,Blender,K. Ivanova,Retail Store,29,$44.99,$28.34,"$1,304.71",$821.86,$482.85,37.0%
+2025-06-26,North,USA,Office,Monitor Arm,T. Novak,Online,36,$64.99,$31.85,"$2,339.64","$1,146.60","$1,193.04",51.0%
+2025-06-26,East,Japan,Apparel,Running Shoes,R. Chen,Online,20,$74.99,$39.74,"$1,499.80",$794.80,$705.00,47.0%
+2025-06-28,West,Germany,Apparel,Running Shoes,M. Silva,Online,32,$74.99,$39.74,"$2,399.68","$1,271.68","$1,128.00",47.0%
+2025-06-28,West,Germany,Electronics,Smart Watch,A. Patel,Retail Store,25,$149.99,$69.00,"$3,749.75","$1,725.00","$2,024.75",54.0%
+2025-06-29,East,Japan,Home & Kitchen,Air Fryer,T. Novak,Retail Store,22,$89.99,$53.99,"$1,979.78","$1,187.78",$792.00,40.0%
+2025-06-29,East,India,Electronics,Wireless Earbuds,L. Rossi,Online,27,$59.99,$34.79,"$1,619.73",$939.33,$680.40,42.0%
+2025-07-01,West,Germany,Office,Desk Chair,J. Kim,Online,22,$179.99,$82.80,"$3,959.78","$1,821.60","$2,138.18",54.0%
+2025-07-02,West,UK,Apparel,Backpack,M. Silva,Online,26,$54.99,$26.95,"$1,429.74",$700.70,$729.04,51.0%
+2025-07-02,West,Germany,Office,Notebook Set,M. Silva,Retail Store,7,$14.99,$8.69,$104.93,$60.83,$44.10,42.0%
+2025-07-03,South,Brazil,Office,Desk Chair,R. Chen,Online,9,$179.99,$82.80,"$1,619.91",$745.20,$874.71,54.0%
+2025-07-03,North,Canada,Home & Kitchen,Coffee Maker,J. Kim,Retail Store,11,$69.99,$41.29,$769.89,$454.19,$315.70,41.0%
+2025-07-04,East,India,Home & Kitchen,Air Fryer,M. Silva,Online,36,$89.99,$53.99,"$3,239.64","$1,943.64","$1,296.00",40.0%
+2025-07-04,East,India,Office,Desk Chair,J. Kim,Retail Store,29,$179.99,$82.80,"$5,219.71","$2,401.20","$2,818.51",54.0%
+2025-07-04,East,Japan,Apparel,Running Shoes,L. Rossi,Online,39,$74.99,$39.74,"$2,924.61","$1,549.86","$1,374.75",47.0%
+2025-07-04,West,Germany,Electronics,Smart Watch,M. Silva,Online,8,$149.99,$69.00,"$1,199.92",$552.00,$647.92,54.0%
+2025-07-04,South,Brazil,Office,Monitor Arm,M. Silva,Retail Store,27,$64.99,$31.85,"$1,754.73",$859.95,$894.78,51.0%
+2025-07-05,South,Brazil,Office,Desk Chair,A. Patel,Wholesale,10,$179.99,$82.80,"$1,799.90",$828.00,$971.90,54.0%
+2025-07-05,North,Canada,Apparel,Running Shoes,L. Rossi,Online,8,$74.99,$39.74,$599.92,$317.92,$282.00,47.0%
+2025-07-05,West,UK,Home & Kitchen,Cookware Set,S. Owusu,Online,5,$119.99,$56.40,$599.95,$282.00,$317.95,53.0%
+2025-07-05,West,Germany,Apparel,Running Shoes,A. Patel,Retail Store,4,$74.99,$39.74,$299.96,$158.96,$141.00,47.0%
+2025-07-05,North,Canada,Office,Monitor Arm,A. Patel,Online,26,$64.99,$31.85,"$1,689.74",$828.10,$861.64,51.0%
+2025-07-06,North,USA,Home & Kitchen,Air Fryer,K. Ivanova,Wholesale,14,$89.99,$53.99,"$1,259.86",$755.86,$504.00,40.0%
+2025-07-07,South,Brazil,Apparel,Backpack,J. Kim,Retail Store,37,$54.99,$26.95,"$2,034.63",$997.15,"$1,037.48",51.0%
+2025-07-08,West,Germany,Apparel,Sunglasses,L. Rossi,Wholesale,13,$34.99,$19.24,$454.87,$250.12,$204.75,45.0%
+2025-07-08,East,India,Office,Notebook Set,A. Patel,Retail Store,17,$14.99,$8.69,$254.83,$147.73,$107.10,42.0%
+2025-07-08,North,Canada,Electronics,Wireless Earbuds,T. Novak,Online,14,$59.99,$34.79,$839.86,$487.06,$352.80,42.0%
+2025-07-08,South,Argentina,Office,Desk Lamp,K. Ivanova,Online,39,$29.99,$16.79,"$1,169.61",$654.81,$514.80,44.0%
+2025-07-09,East,India,Office,Notebook Set,A. Patel,Retail Store,36,$14.99,$8.69,$539.64,$312.84,$226.80,42.0%
+2025-07-09,North,Canada,Home & Kitchen,Cookware Set,J. Kim,Online,16,$119.99,$56.40,"$1,919.84",$902.40,"$1,017.44",53.0%
+2025-07-09,North,Canada,Electronics,Wireless Earbuds,S. Owusu,Retail Store,3,$59.99,$34.79,$179.97,$104.37,$75.60,42.0%
+2025-07-10,West,UK,Apparel,Running Shoes,M. Silva,Online,26,$74.99,$39.74,"$1,949.74","$1,033.24",$916.50,47.0%
+2025-07-11,West,Germany,Office,Desk Lamp,J. Kim,Retail Store,35,$29.99,$16.79,"$1,049.65",$587.65,$462.00,44.0%
+2025-07-11,West,Germany,Home & Kitchen,Coffee Maker,T. Novak,Retail Store,6,$69.99,$41.29,$419.94,$247.74,$172.20,41.0%
+2025-07-12,South,Argentina,Home & Kitchen,Air Fryer,T. Novak,Retail Store,21,$89.99,$53.99,"$1,889.79","$1,133.79",$756.00,40.0%
+2025-07-12,North,USA,Home & Kitchen,Coffee Maker,R. Chen,Online,33,$69.99,$41.29,"$2,309.67","$1,362.57",$947.10,41.0%
+2025-07-14,East,Japan,Apparel,Running Shoes,K. Ivanova,Online,35,$74.99,$39.74,"$2,624.65","$1,390.90","$1,233.75",47.0%
+2025-07-14,South,Argentina,Apparel,Backpack,K. Ivanova,Wholesale,32,$54.99,$26.95,"$1,759.68",$862.40,$897.28,51.0%
+2025-07-14,South,Brazil,Apparel,Jacket,S. Owusu,Retail Store,35,$99.99,$46.00,"$3,499.65","$1,610.00","$1,889.65",54.0%
+2025-07-14,East,Japan,Electronics,Wireless Earbuds,K. Ivanova,Online,3,$59.99,$34.79,$179.97,$104.37,$75.60,42.0%
+2025-07-14,West,UK,Home & Kitchen,Cookware Set,J. Kim,Retail Store,21,$119.99,$56.40,"$2,519.79","$1,184.40","$1,335.39",53.0%
+2025-07-15,East,India,Office,Monitor Arm,T. Novak,Online,15,$64.99,$31.85,$974.85,$477.75,$497.10,51.0%
+2025-07-16,West,UK,Office,Monitor Arm,S. Owusu,Retail Store,33,$64.99,$31.85,"$2,144.67","$1,051.05","$1,093.62",51.0%
+2025-07-16,West,UK,Office,Monitor Arm,M. Silva,Online,9,$64.99,$31.85,$584.91,$286.65,$298.26,51.0%
+2025-07-16,West,Germany,Office,Desk Lamp,K. Ivanova,Online,6,$29.99,$16.79,$179.94,$100.74,$79.20,44.0%
+2025-07-16,West,Germany,Electronics,Smart Watch,T. Novak,Online,40,$149.99,$69.00,"$5,999.60","$2,760.00","$3,239.60",54.0%
+2025-07-16,East,Japan,Electronics,Bluetooth Speaker,S. Owusu,Online,36,$39.99,$20.39,"$1,439.64",$734.04,$705.60,49.0%
+2025-07-16,West,Germany,Office,Desk Lamp,K. Ivanova,Online,12,$29.99,$16.79,$359.88,$201.48,$158.40,44.0%
+2025-07-17,East,India,Office,Desk Lamp,S. Owusu,Wholesale,34,$29.99,$16.79,"$1,019.66",$570.86,$448.80,44.0%
+2025-07-17,East,India,Apparel,Sunglasses,T. Novak,Retail Store,40,$34.99,$19.24,"$1,399.60",$769.60,$630.00,45.0%
+2025-07-17,North,Canada,Electronics,Bluetooth Speaker,K. Ivanova,Retail Store,5,$39.99,$20.39,$199.95,$101.95,$98.00,49.0%
+2025-07-18,West,Germany,Electronics,Bluetooth Speaker,J. Kim,Online,36,$39.99,$20.39,"$1,439.64",$734.04,$705.60,49.0%
+2025-07-18,West,Germany,Electronics,Wireless Earbuds,S. Owusu,Online,34,$59.99,$34.79,"$2,039.66","$1,182.86",$856.80,42.0%
+2025-07-18,South,Argentina,Home & Kitchen,Blender,S. Owusu,Online,21,$44.99,$28.34,$944.79,$595.14,$349.65,37.0%
+2025-07-19,East,Japan,Electronics,Wireless Earbuds,A. Patel,Wholesale,29,$59.99,$34.79,"$1,739.71","$1,008.91",$730.80,42.0%
+2025-07-20,South,Argentina,Apparel,Backpack,S. Owusu,Retail Store,35,$54.99,$26.95,"$1,924.65",$943.25,$981.40,51.0%
+2025-07-21,North,Canada,Home & Kitchen,Blender,R. Chen,Online,33,$44.99,$28.34,"$1,484.67",$935.22,$549.45,37.0%
+2025-07-21,South,Brazil,Office,Monitor Arm,L. Rossi,Online,10,$64.99,$31.85,$649.90,$318.50,$331.40,51.0%
+2025-07-21,East,Japan,Office,Desk Lamp,L. Rossi,Online,12,$29.99,$16.79,$359.88,$201.48,$158.40,44.0%
+2025-07-21,West,UK,Electronics,Wireless Earbuds,R. Chen,Wholesale,30,$59.99,$34.79,"$1,799.70","$1,043.70",$756.00,42.0%
+2025-07-22,South,Brazil,Office,Desk Lamp,R. Chen,Online,28,$29.99,$16.79,$839.72,$470.12,$369.60,44.0%
+2025-07-22,South,Brazil,Home & Kitchen,Air Fryer,T. Novak,Retail Store,21,$89.99,$53.99,"$1,889.79","$1,133.79",$756.00,40.0%
+2025-07-23,West,UK,Apparel,Running Shoes,A. Patel,Online,39,$74.99,$39.74,"$2,924.61","$1,549.86","$1,374.75",47.0%
+2025-07-23,North,USA,Apparel,Running Shoes,M. Silva,Wholesale,20,$74.99,$39.74,"$1,499.80",$794.80,$705.00,47.0%
+2025-07-24,East,Japan,Electronics,Bluetooth Speaker,S. Owusu,Retail Store,26,$39.99,$20.39,"$1,039.74",$530.14,$509.60,49.0%
+2025-07-24,West,UK,Apparel,Sunglasses,S. Owusu,Retail Store,24,$34.99,$19.24,$839.76,$461.76,$378.00,45.0%
+2025-07-26,North,USA,Electronics,Wireless Earbuds,L. Rossi,Retail Store,37,$59.99,$34.79,"$2,219.63","$1,287.23",$932.40,42.0%
+2025-07-26,North,Canada,Office,Desk Chair,R. Chen,Online,40,$179.99,$82.80,"$7,199.60","$3,312.00","$3,887.60",54.0%
+2025-07-26,East,Japan,Office,Desk Lamp,S. Owusu,Retail Store,6,$29.99,$16.79,$179.94,$100.74,$79.20,44.0%
+2025-07-27,South,Argentina,Apparel,Sunglasses,S. Owusu,Online,36,$34.99,$19.24,"$1,259.64",$692.64,$567.00,45.0%
+2025-07-29,East,Japan,Apparel,Jacket,J. Kim,Online,37,$99.99,$46.00,"$3,699.63","$1,702.00","$1,997.63",54.0%
+2025-07-29,West,Germany,Electronics,Laptop Stand,M. Silva,Retail Store,34,$24.99,$12.25,$849.66,$416.50,$433.16,51.0%
+2025-07-30,South,Argentina,Home & Kitchen,Air Fryer,L. Rossi,Wholesale,31,$89.99,$53.99,"$2,789.69","$1,673.69","$1,116.00",40.0%
+2025-07-30,West,UK,Electronics,Bluetooth Speaker,L. Rossi,Online,13,$39.99,$20.39,$519.87,$265.07,$254.80,49.0%
+2025-07-30,East,India,Electronics,Smart Watch,M. Silva,Online,13,$149.99,$69.00,"$1,949.87",$897.00,"$1,052.87",54.0%
+2025-07-30,North,USA,Electronics,Laptop Stand,M. Silva,Online,29,$24.99,$12.25,$724.71,$355.25,$369.46,51.0%
+2025-07-31,West,UK,Office,Monitor Arm,T. Novak,Online,6,$64.99,$31.85,$389.94,$191.10,$198.84,51.0%
+2025-07-31,East,India,Apparel,Running Shoes,A. Patel,Online,9,$74.99,$39.74,$674.91,$357.66,$317.25,47.0%
+2025-07-31,North,Canada,Apparel,Jacket,A. Patel,Retail Store,19,$99.99,$46.00,"$1,899.81",$874.00,"$1,025.81",54.0%
+2025-08-01,West,UK,Office,Notebook Set,A. Patel,Online,1,$14.99,$8.69,$14.99,$8.69,$6.30,42.0%
+2025-08-01,West,Germany,Electronics,Smart Watch,T. Novak,Online,6,$149.99,$69.00,$899.94,$414.00,$485.94,54.0%
+2025-08-01,West,UK,Apparel,Jacket,R. Chen,Retail Store,22,$99.99,$46.00,"$2,199.78","$1,012.00","$1,187.78",54.0%
+2025-08-01,West,Germany,Home & Kitchen,Cookware Set,L. Rossi,Online,38,$119.99,$56.40,"$4,559.62","$2,143.20","$2,416.42",53.0%
+2025-08-01,South,Argentina,Home & Kitchen,Coffee Maker,M. Silva,Retail Store,19,$69.99,$41.29,"$1,329.81",$784.51,$545.30,41.0%
+2025-08-01,West,Germany,Home & Kitchen,Coffee Maker,A. Patel,Wholesale,23,$69.99,$41.29,"$1,609.77",$949.67,$660.10,41.0%
+2025-08-01,North,Canada,Office,Notebook Set,J. Kim,Online,7,$14.99,$8.69,$104.93,$60.83,$44.10,42.0%
+2025-08-02,East,Japan,Home & Kitchen,Coffee Maker,T. Novak,Retail Store,6,$69.99,$41.29,$419.94,$247.74,$172.20,41.0%
+2025-08-03,West,UK,Electronics,Laptop Stand,A. Patel,Retail Store,37,$24.99,$12.25,$924.63,$453.25,$471.38,51.0%
+2025-08-03,West,Germany,Electronics,Smart Watch,S. Owusu,Retail Store,15,$149.99,$69.00,"$2,249.85","$1,035.00","$1,214.85",54.0%
+2025-08-04,West,UK,Apparel,Sunglasses,A. Patel,Online,14,$34.99,$19.24,$489.86,$269.36,$220.50,45.0%
+2025-08-04,East,India,Office,Desk Chair,A. Patel,Retail Store,1,$179.99,$82.80,$179.99,$82.80,$97.19,54.0%
+2025-08-04,East,Japan,Apparel,Backpack,K. Ivanova,Wholesale,31,$54.99,$26.95,"$1,704.69",$835.45,$869.24,51.0%
+2025-08-04,West,UK,Electronics,Smart Watch,S. Owusu,Online,21,$149.99,$69.00,"$3,149.79","$1,449.00","$1,700.79",54.0%
+2025-08-05,North,USA,Home & Kitchen,Blender,M. Silva,Online,18,$44.99,$28.34,$809.82,$510.12,$299.70,37.0%
+2025-08-05,North,Canada,Apparel,Jacket,L. Rossi,Retail Store,6,$99.99,$46.00,$599.94,$276.00,$323.94,54.0%
+2025-08-05,North,USA,Apparel,Backpack,S. Owusu,Online,8,$54.99,$26.95,$439.92,$215.60,$224.32,51.0%
+2025-08-07,East,Japan,Office,Monitor Arm,R. Chen,Retail Store,38,$64.99,$31.85,"$2,469.62","$1,210.30","$1,259.32",51.0%
+2025-08-08,East,India,Electronics,Smart Watch,R. Chen,Online,6,$149.99,$69.00,$899.94,$414.00,$485.94,54.0%
+2025-08-08,South,Brazil,Apparel,Jacket,T. Novak,Online,24,$99.99,$46.00,"$2,399.76","$1,104.00","$1,295.76",54.0%
+2025-08-08,North,USA,Electronics,Smart Watch,K. Ivanova,Online,38,$149.99,$69.00,"$5,699.62","$2,622.00","$3,077.62",54.0%
+2025-08-08,West,Germany,Electronics,Wireless Earbuds,R. Chen,Retail Store,1,$59.99,$34.79,$59.99,$34.79,$25.20,42.0%
+2025-08-09,East,Japan,Office,Desk Lamp,R. Chen,Online,11,$29.99,$16.79,$329.89,$184.69,$145.20,44.0%
+2025-08-09,South,Argentina,Apparel,Sunglasses,S. Owusu,Online,4,$34.99,$19.24,$139.96,$76.96,$63.00,45.0%
+2025-08-09,West,Germany,Home & Kitchen,Coffee Maker,J. Kim,Retail Store,37,$69.99,$41.29,"$2,589.63","$1,527.73","$1,061.90",41.0%
+2025-08-10,East,India,Office,Desk Chair,A. Patel,Retail Store,40,$179.99,$82.80,"$7,199.60","$3,312.00","$3,887.60",54.0%
+2025-08-10,West,Germany,Electronics,Laptop Stand,K. Ivanova,Online,3,$24.99,$12.25,$74.97,$36.75,$38.22,51.0%
+2025-08-11,South,Brazil,Apparel,Backpack,S. Owusu,Wholesale,26,$54.99,$26.95,"$1,429.74",$700.70,$729.04,51.0%
+2025-08-11,East,Japan,Office,Monitor Arm,J. Kim,Online,24,$64.99,$31.85,"$1,559.76",$764.40,$795.36,51.0%
+2025-08-12,North,Canada,Electronics,Bluetooth Speaker,L. Rossi,Retail Store,27,$39.99,$20.39,"$1,079.73",$550.53,$529.20,49.0%
+2025-08-12,South,Argentina,Electronics,Smart Watch,T. Novak,Online,20,$149.99,$69.00,"$2,999.80","$1,380.00","$1,619.80",54.0%
+2025-08-12,East,Japan,Home & Kitchen,Coffee Maker,K. Ivanova,Online,22,$69.99,$41.29,"$1,539.78",$908.38,$631.40,41.0%
+2025-08-13,West,UK,Home & Kitchen,Coffee Maker,J. Kim,Online,38,$69.99,$41.29,"$2,659.62","$1,569.02","$1,090.60",41.0%
+2025-08-13,East,India,Office,Desk Lamp,M. Silva,Retail Store,16,$29.99,$16.79,$479.84,$268.64,$211.20,44.0%
+2025-08-14,North,Canada,Home & Kitchen,Coffee Maker,T. Novak,Online,40,$69.99,$41.29,"$2,799.60","$1,651.60","$1,148.00",41.0%
+2025-08-15,West,Germany,Office,Desk Lamp,T. Novak,Online,33,$29.99,$16.79,$989.67,$554.07,$435.60,44.0%
+2025-08-15,East,Japan,Apparel,Backpack,L. Rossi,Retail Store,28,$54.99,$26.95,"$1,539.72",$754.60,$785.12,51.0%
+2025-08-16,West,UK,Apparel,Sunglasses,M. Silva,Online,1,$34.99,$19.24,$34.99,$19.24,$15.75,45.0%
+2025-08-16,East,Japan,Home & Kitchen,Blender,R. Chen,Retail Store,21,$44.99,$28.34,$944.79,$595.14,$349.65,37.0%
+2025-08-16,South,Brazil,Home & Kitchen,Air Fryer,A. Patel,Online,38,$89.99,$53.99,"$3,419.62","$2,051.62","$1,368.00",40.0%
+2025-08-17,South,Argentina,Office,Notebook Set,R. Chen,Retail Store,18,$14.99,$8.69,$269.82,$156.42,$113.40,42.0%
+2025-08-17,East,Japan,Office,Desk Chair,M. Silva,Retail Store,6,$179.99,$82.80,"$1,079.94",$496.80,$583.14,54.0%
+2025-08-17,East,India,Electronics,Smart Watch,R. Chen,Online,17,$149.99,$69.00,"$2,549.83","$1,173.00","$1,376.83",54.0%
+2025-08-17,South,Brazil,Apparel,Backpack,T. Novak,Wholesale,28,$54.99,$26.95,"$1,539.72",$754.60,$785.12,51.0%
+2025-08-17,North,Canada,Home & Kitchen,Cookware Set,S. Owusu,Retail Store,33,$119.99,$56.40,"$3,959.67","$1,861.20","$2,098.47",53.0%
+2025-08-18,East,India,Office,Monitor Arm,A. Patel,Retail Store,34,$64.99,$31.85,"$2,209.66","$1,082.90","$1,126.76",51.0%
+2025-08-18,North,Canada,Office,Notebook Set,J. Kim,Wholesale,2,$14.99,$8.69,$29.98,$17.38,$12.60,42.0%
+2025-08-18,West,UK,Home & Kitchen,Blender,R. Chen,Online,29,$44.99,$28.34,"$1,304.71",$821.86,$482.85,37.0%
+2025-08-18,East,India,Office,Notebook Set,R. Chen,Retail Store,38,$14.99,$8.69,$569.62,$330.22,$239.40,42.0%
+2025-08-19,East,India,Home & Kitchen,Air Fryer,T. Novak,Online,39,$89.99,$53.99,"$3,509.61","$2,105.61","$1,404.00",40.0%
+2025-08-19,West,Germany,Electronics,Smart Watch,R. Chen,Online,5,$149.99,$69.00,$749.95,$345.00,$404.95,54.0%
+2025-08-19,East,Japan,Apparel,Sunglasses,A. Patel,Retail Store,33,$34.99,$19.24,"$1,154.67",$634.92,$519.75,45.0%
+2025-08-20,South,Brazil,Office,Desk Chair,M. Silva,Online,4,$179.99,$82.80,$719.96,$331.20,$388.76,54.0%
+2025-08-20,East,India,Apparel,Jacket,J. Kim,Online,3,$99.99,$46.00,$299.97,$138.00,$161.97,54.0%
+2025-08-20,North,USA,Office,Notebook Set,M. Silva,Online,31,$14.99,$8.69,$464.69,$269.39,$195.30,42.0%
+2025-08-21,East,Japan,Office,Notebook Set,J. Kim,Retail Store,31,$14.99,$8.69,$464.69,$269.39,$195.30,42.0%
+2025-08-21,North,USA,Electronics,Wireless Earbuds,S. Owusu,Online,9,$59.99,$34.79,$539.91,$313.11,$226.80,42.0%
+2025-08-21,East,Japan,Apparel,Sunglasses,J. Kim,Online,15,$34.99,$19.24,$524.85,$288.60,$236.25,45.0%
+2025-08-21,East,India,Apparel,Running Shoes,K. Ivanova,Online,37,$74.99,$39.74,"$2,774.63","$1,470.38","$1,304.25",47.0%
+2025-08-22,West,UK,Office,Desk Lamp,L. Rossi,Online,1,$29.99,$16.79,$29.99,$16.79,$13.20,44.0%
+2025-08-22,South,Argentina,Apparel,Sunglasses,L. Rossi,Retail Store,36,$34.99,$19.24,"$1,259.64",$692.64,$567.00,45.0%
+2025-08-22,North,Canada,Home & Kitchen,Blender,T. Novak,Retail Store,16,$44.99,$28.34,$719.84,$453.44,$266.40,37.0%
+2025-08-22,East,Japan,Office,Desk Chair,J. Kim,Retail Store,3,$179.99,$82.80,$539.97,$248.40,$291.57,54.0%
+2025-08-22,South,Brazil,Electronics,Wireless Earbuds,K. Ivanova,Retail Store,40,$59.99,$34.79,"$2,399.60","$1,391.60","$1,008.00",42.0%
+2025-08-23,East,India,Office,Monitor Arm,L. Rossi,Retail Store,32,$64.99,$31.85,"$2,079.68","$1,019.20","$1,060.48",51.0%
+2025-08-23,North,USA,Home & Kitchen,Cookware Set,J. Kim,Retail Store,4,$119.99,$56.40,$479.96,$225.60,$254.36,53.0%
+2025-08-23,North,Canada,Apparel,Running Shoes,A. Patel,Retail Store,25,$74.99,$39.74,"$1,874.75",$993.50,$881.25,47.0%
+2025-08-23,West,UK,Apparel,Jacket,T. Novak,Retail Store,40,$99.99,$46.00,"$3,999.60","$1,840.00","$2,159.60",54.0%
+2025-08-24,East,India,Office,Desk Chair,R. Chen,Online,26,$179.99,$82.80,"$4,679.74","$2,152.80","$2,526.94",54.0%
+2025-08-24,East,India,Apparel,Jacket,J. Kim,Online,27,$99.99,$46.00,"$2,699.73","$1,242.00","$1,457.73",54.0%
+2025-08-24,South,Argentina,Home & Kitchen,Coffee Maker,K. Ivanova,Online,35,$69.99,$41.29,"$2,449.65","$1,445.15","$1,004.50",41.0%
+2025-08-24,West,UK,Electronics,Bluetooth Speaker,A. Patel,Retail Store,39,$39.99,$20.39,"$1,559.61",$795.21,$764.40,49.0%
+2025-08-25,South,Brazil,Office,Desk Chair,A. Patel,Retail Store,35,$179.99,$82.80,"$6,299.65","$2,898.00","$3,401.65",54.0%
+2025-08-25,South,Argentina,Apparel,Jacket,J. Kim,Online,7,$99.99,$46.00,$699.93,$322.00,$377.93,54.0%
+2025-08-26,West,Germany,Apparel,Jacket,K. Ivanova,Online,29,$99.99,$46.00,"$2,899.71","$1,334.00","$1,565.71",54.0%
+2025-08-26,South,Argentina,Electronics,Laptop Stand,J. Kim,Online,6,$24.99,$12.25,$149.94,$73.50,$76.44,51.0%
+2025-08-26,East,Japan,Home & Kitchen,Coffee Maker,M. Silva,Online,27,$69.99,$41.29,"$1,889.73","$1,114.83",$774.90,41.0%
+2025-08-27,East,Japan,Home & Kitchen,Air Fryer,M. Silva,Wholesale,7,$89.99,$53.99,$629.93,$377.93,$252.00,40.0%
+2025-08-27,East,India,Electronics,Laptop Stand,S. Owusu,Wholesale,20,$24.99,$12.25,$499.80,$245.00,$254.80,51.0%
+2025-08-27,South,Brazil,Office,Notebook Set,L. Rossi,Online,12,$14.99,$8.69,$179.88,$104.28,$75.60,42.0%
+2025-08-29,East,India,Home & Kitchen,Blender,T. Novak,Retail Store,30,$44.99,$28.34,"$1,349.70",$850.20,$499.50,37.0%
+2025-08-29,West,Germany,Home & Kitchen,Cookware Set,K. Ivanova,Wholesale,31,$119.99,$56.40,"$3,719.69","$1,748.40","$1,971.29",53.0%
+2025-08-29,South,Brazil,Home & Kitchen,Blender,S. Owusu,Online,22,$44.99,$28.34,$989.78,$623.48,$366.30,37.0%
+2025-08-29,East,India,Office,Desk Lamp,J. Kim,Wholesale,32,$29.99,$16.79,$959.68,$537.28,$422.40,44.0%
+2025-08-30,North,USA,Electronics,Smart Watch,L. Rossi,Retail Store,31,$149.99,$69.00,"$4,649.69","$2,139.00","$2,510.69",54.0%
+2025-08-30,South,Brazil,Electronics,Laptop Stand,S. Owusu,Online,37,$24.99,$12.25,$924.63,$453.25,$471.38,51.0%
+2025-08-30,South,Argentina,Office,Monitor Arm,T. Novak,Online,33,$64.99,$31.85,"$2,144.67","$1,051.05","$1,093.62",51.0%
+2025-08-30,West,UK,Office,Monitor Arm,R. Chen,Wholesale,30,$64.99,$31.85,"$1,949.70",$955.50,$994.20,51.0%
+2025-08-31,South,Brazil,Apparel,Jacket,K. Ivanova,Wholesale,36,$99.99,$46.00,"$3,599.64","$1,656.00","$1,943.64",54.0%
+2025-08-31,South,Brazil,Home & Kitchen,Cookware Set,T. Novak,Wholesale,10,$119.99,$56.40,"$1,199.90",$564.00,$635.90,53.0%
+2025-08-31,North,USA,Office,Desk Chair,J. Kim,Online,10,$179.99,$82.80,"$1,799.90",$828.00,$971.90,54.0%
+2025-08-31,North,USA,Office,Monitor Arm,K. Ivanova,Wholesale,35,$64.99,$31.85,"$2,274.65","$1,114.75","$1,159.90",51.0%
+2025-09-01,East,Japan,Home & Kitchen,Blender,M. Silva,Wholesale,13,$44.99,$28.34,$584.87,$368.42,$216.45,37.0%
+2025-09-01,South,Brazil,Office,Notebook Set,L. Rossi,Online,9,$14.99,$8.69,$134.91,$78.21,$56.70,42.0%
+2025-09-01,South,Argentina,Office,Desk Lamp,T. Novak,Online,28,$29.99,$16.79,$839.72,$470.12,$369.60,44.0%
+2025-09-01,East,India,Electronics,Laptop Stand,J. Kim,Online,34,$24.99,$12.25,$849.66,$416.50,$433.16,51.0%
+2025-09-02,South,Argentina,Apparel,Backpack,A. Patel,Wholesale,6,$54.99,$26.95,$329.94,$161.70,$168.24,51.0%
+2025-09-03,East,Japan,Apparel,Jacket,K. Ivanova,Wholesale,39,$99.99,$46.00,"$3,899.61","$1,794.00","$2,105.61",54.0%
+2025-09-04,South,Brazil,Office,Monitor Arm,M. Silva,Retail Store,33,$64.99,$31.85,"$2,144.67","$1,051.05","$1,093.62",51.0%
+2025-09-04,East,Japan,Apparel,Sunglasses,K. Ivanova,Retail Store,39,$34.99,$19.24,"$1,364.61",$750.36,$614.25,45.0%
+2025-09-05,West,Germany,Apparel,Backpack,R. Chen,Retail Store,6,$54.99,$26.95,$329.94,$161.70,$168.24,51.0%
+2025-09-05,West,UK,Electronics,Laptop Stand,A. Patel,Online,18,$24.99,$12.25,$449.82,$220.50,$229.32,51.0%
+2025-09-05,East,Japan,Electronics,Laptop Stand,K. Ivanova,Online,20,$24.99,$12.25,$499.80,$245.00,$254.80,51.0%
+2025-09-05,North,Canada,Home & Kitchen,Air Fryer,T. Novak,Retail Store,38,$89.99,$53.99,"$3,419.62","$2,051.62","$1,368.00",40.0%
+2025-09-06,East,India,Home & Kitchen,Air Fryer,T. Novak,Retail Store,26,$89.99,$53.99,"$2,339.74","$1,403.74",$936.00,40.0%
+2025-09-06,South,Brazil,Apparel,Running Shoes,M. Silva,Retail Store,10,$74.99,$39.74,$749.90,$397.40,$352.50,47.0%
+2025-09-07,East,Japan,Home & Kitchen,Coffee Maker,J. Kim,Online,5,$69.99,$41.29,$349.95,$206.45,$143.50,41.0%
+2025-09-07,West,UK,Home & Kitchen,Cookware Set,M. Silva,Online,33,$119.99,$56.40,"$3,959.67","$1,861.20","$2,098.47",53.0%
+2025-09-07,North,Canada,Apparel,Running Shoes,K. Ivanova,Online,26,$74.99,$39.74,"$1,949.74","$1,033.24",$916.50,47.0%
+2025-09-07,North,Canada,Office,Desk Lamp,M. Silva,Online,26,$29.99,$16.79,$779.74,$436.54,$343.20,44.0%
+2025-09-08,West,Germany,Electronics,Bluetooth Speaker,R. Chen,Online,16,$39.99,$20.39,$639.84,$326.24,$313.60,49.0%
+2025-09-08,South,Argentina,Office,Desk Lamp,K. Ivanova,Online,6,$29.99,$16.79,$179.94,$100.74,$79.20,44.0%
+2025-09-09,West,UK,Electronics,Bluetooth Speaker,M. Silva,Online,18,$39.99,$20.39,$719.82,$367.02,$352.80,49.0%
+2025-09-09,South,Argentina,Office,Desk Lamp,M. Silva,Retail Store,25,$29.99,$16.79,$749.75,$419.75,$330.00,44.0%
+2025-09-09,East,India,Apparel,Backpack,A. Patel,Online,36,$54.99,$26.95,"$1,979.64",$970.20,"$1,009.44",51.0%
+2025-09-09,South,Argentina,Electronics,Smart Watch,A. Patel,Wholesale,2,$149.99,$69.00,$299.98,$138.00,$161.98,54.0%
+2025-09-09,East,Japan,Electronics,Wireless Earbuds,L. Rossi,Wholesale,8,$59.99,$34.79,$479.92,$278.32,$201.60,42.0%
+2025-09-10,South,Brazil,Home & Kitchen,Cookware Set,T. Novak,Online,31,$119.99,$56.40,"$3,719.69","$1,748.40","$1,971.29",53.0%
+2025-09-10,South,Argentina,Electronics,Bluetooth Speaker,R. Chen,Online,26,$39.99,$20.39,"$1,039.74",$530.14,$509.60,49.0%
+2025-09-10,North,Canada,Office,Desk Lamp,T. Novak,Retail Store,31,$29.99,$16.79,$929.69,$520.49,$409.20,44.0%
+2025-09-11,West,Germany,Home & Kitchen,Cookware Set,M. Silva,Online,23,$119.99,$56.40,"$2,759.77","$1,297.20","$1,462.57",53.0%
+2025-09-12,South,Brazil,Office,Notebook Set,K. Ivanova,Online,1,$14.99,$8.69,$14.99,$8.69,$6.30,42.0%
+2025-09-12,North,USA,Office,Desk Lamp,R. Chen,Online,23,$29.99,$16.79,$689.77,$386.17,$303.60,44.0%
+2025-09-12,East,Japan,Home & Kitchen,Blender,M. Silva,Retail Store,18,$44.99,$28.34,$809.82,$510.12,$299.70,37.0%
+2025-09-12,North,Canada,Office,Monitor Arm,S. Owusu,Online,12,$64.99,$31.85,$779.88,$382.20,$397.68,51.0%
+2025-09-13,West,UK,Home & Kitchen,Blender,M. Silva,Wholesale,29,$44.99,$28.34,"$1,304.71",$821.86,$482.85,37.0%
+2025-09-13,East,Japan,Office,Desk Lamp,K. Ivanova,Online,36,$29.99,$16.79,"$1,079.64",$604.44,$475.20,44.0%
+2025-09-13,South,Brazil,Home & Kitchen,Blender,R. Chen,Online,16,$44.99,$28.34,$719.84,$453.44,$266.40,37.0%
+2025-09-15,South,Brazil,Office,Monitor Arm,M. Silva,Wholesale,13,$64.99,$31.85,$844.87,$414.05,$430.82,51.0%
+2025-09-16,East,Japan,Apparel,Jacket,L. Rossi,Online,40,$99.99,$46.00,"$3,999.60","$1,840.00","$2,159.60",54.0%
+2025-09-17,East,India,Office,Desk Lamp,J. Kim,Online,24,$29.99,$16.79,$719.76,$402.96,$316.80,44.0%
+2025-09-17,North,Canada,Home & Kitchen,Cookware Set,M. Silva,Online,40,$119.99,$56.40,"$4,799.60","$2,256.00","$2,543.60",53.0%
+2025-09-17,South,Argentina,Home & Kitchen,Blender,A. Patel,Online,10,$44.99,$28.34,$449.90,$283.40,$166.50,37.0%
+2025-09-18,North,Canada,Office,Desk Chair,M. Silva,Online,30,$179.99,$82.80,"$5,399.70","$2,484.00","$2,915.70",54.0%
+2025-09-19,South,Brazil,Apparel,Sunglasses,J. Kim,Online,28,$34.99,$19.24,$979.72,$538.72,$441.00,45.0%
+2025-09-19,North,Canada,Electronics,Wireless Earbuds,K. Ivanova,Online,13,$59.99,$34.79,$779.87,$452.27,$327.60,42.0%
+2025-09-19,North,Canada,Apparel,Running Shoes,R. Chen,Retail Store,40,$74.99,$39.74,"$2,999.60","$1,589.60","$1,410.00",47.0%
+2025-09-19,South,Brazil,Electronics,Bluetooth Speaker,R. Chen,Retail Store,11,$39.99,$20.39,$439.89,$224.29,$215.60,49.0%
+2025-09-19,South,Argentina,Office,Desk Chair,M. Silva,Wholesale,37,$179.99,$82.80,"$6,659.63","$3,063.60","$3,596.03",54.0%
+2025-09-20,North,USA,Office,Monitor Arm,M. Silva,Retail Store,1,$64.99,$31.85,$64.99,$31.85,$33.14,51.0%
+2025-09-20,North,Canada,Office,Desk Chair,K. Ivanova,Retail Store,37,$179.99,$82.80,"$6,659.63","$3,063.60","$3,596.03",54.0%
+2025-09-20,West,UK,Electronics,Wireless Earbuds,L. Rossi,Retail Store,36,$59.99,$34.79,"$2,159.64","$1,252.44",$907.20,42.0%
+2025-09-20,East,Japan,Office,Desk Lamp,L. Rossi,Online,32,$29.99,$16.79,$959.68,$537.28,$422.40,44.0%
+2025-09-21,West,Germany,Apparel,Running Shoes,R. Chen,Online,4,$74.99,$39.74,$299.96,$158.96,$141.00,47.0%
+2025-09-21,North,USA,Office,Desk Chair,T. Novak,Wholesale,9,$179.99,$82.80,"$1,619.91",$745.20,$874.71,54.0%
+2025-09-21,West,UK,Electronics,Smart Watch,K. Ivanova,Online,30,$149.99,$69.00,"$4,499.70","$2,070.00","$2,429.70",54.0%
+2025-09-22,South,Brazil,Apparel,Sunglasses,K. Ivanova,Online,26,$34.99,$19.24,$909.74,$500.24,$409.50,45.0%
+2025-09-22,East,Japan,Home & Kitchen,Cookware Set,S. Owusu,Retail Store,23,$119.99,$56.40,"$2,759.77","$1,297.20","$1,462.57",53.0%
+2025-09-22,West,UK,Apparel,Running Shoes,R. Chen,Online,31,$74.99,$39.74,"$2,324.69","$1,231.94","$1,092.75",47.0%
+2025-09-22,South,Argentina,Apparel,Sunglasses,K. Ivanova,Wholesale,9,$34.99,$19.24,$314.91,$173.16,$141.75,45.0%
+2025-09-23,North,Canada,Home & Kitchen,Cookware Set,S. Owusu,Retail Store,25,$119.99,$56.40,"$2,999.75","$1,410.00","$1,589.75",53.0%
+2025-09-23,North,USA,Home & Kitchen,Cookware Set,R. Chen,Online,16,$119.99,$56.40,"$1,919.84",$902.40,"$1,017.44",53.0%
+2025-09-24,West,UK,Apparel,Sunglasses,J. Kim,Retail Store,16,$34.99,$19.24,$559.84,$307.84,$252.00,45.0%
+2025-09-24,South,Argentina,Office,Notebook Set,S. Owusu,Online,3,$14.99,$8.69,$44.97,$26.07,$18.90,42.0%
+2025-09-25,East,Japan,Home & Kitchen,Blender,R. Chen,Online,9,$44.99,$28.34,$404.91,$255.06,$149.85,37.0%
+2025-09-25,West,Germany,Home & Kitchen,Cookware Set,T. Novak,Online,3,$119.99,$56.40,$359.97,$169.20,$190.77,53.0%
+2025-09-25,East,India,Apparel,Running Shoes,J. Kim,Online,10,$74.99,$39.74,$749.90,$397.40,$352.50,47.0%
+2025-09-25,South,Brazil,Apparel,Backpack,S. Owusu,Online,32,$54.99,$26.95,"$1,759.68",$862.40,$897.28,51.0%
+2025-09-26,East,India,Home & Kitchen,Blender,R. Chen,Online,20,$44.99,$28.34,$899.80,$566.80,$333.00,37.0%
+2025-09-26,North,Canada,Apparel,Backpack,R. Chen,Online,11,$54.99,$26.95,$604.89,$296.45,$308.44,51.0%
+2025-09-26,East,Japan,Home & Kitchen,Air Fryer,M. Silva,Online,3,$89.99,$53.99,$269.97,$161.97,$108.00,40.0%
+2025-09-27,West,UK,Electronics,Smart Watch,M. Silva,Retail Store,13,$149.99,$69.00,"$1,949.87",$897.00,"$1,052.87",54.0%
+2025-09-28,East,India,Electronics,Bluetooth Speaker,S. Owusu,Online,28,$39.99,$20.39,"$1,119.72",$570.92,$548.80,49.0%
+2025-09-29,West,Germany,Home & Kitchen,Blender,J. Kim,Retail Store,20,$44.99,$28.34,$899.80,$566.80,$333.00,37.0%
+2025-09-30,West,Germany,Apparel,Sunglasses,R. Chen,Wholesale,40,$34.99,$19.24,"$1,399.60",$769.60,$630.00,45.0%
+2025-10-01,North,Canada,Electronics,Wireless Earbuds,L. Rossi,Online,30,$59.99,$34.79,"$1,799.70","$1,043.70",$756.00,42.0%
+2025-10-01,North,USA,Home & Kitchen,Coffee Maker,S. Owusu,Retail Store,37,$69.99,$41.29,"$2,589.63","$1,527.73","$1,061.90",41.0%
+2025-10-01,North,USA,Electronics,Wireless Earbuds,A. Patel,Retail Store,27,$59.99,$34.79,"$1,619.73",$939.33,$680.40,42.0%
+2025-10-01,East,Japan,Apparel,Backpack,A. Patel,Online,11,$54.99,$26.95,$604.89,$296.45,$308.44,51.0%
+2025-10-01,East,India,Electronics,Laptop Stand,K. Ivanova,Retail Store,30,$24.99,$12.25,$749.70,$367.50,$382.20,51.0%
+2025-10-01,South,Argentina,Office,Desk Chair,L. Rossi,Wholesale,17,$179.99,$82.80,"$3,059.83","$1,407.60","$1,652.23",54.0%
+2025-10-02,East,India,Office,Monitor Arm,J. Kim,Wholesale,34,$64.99,$31.85,"$2,209.66","$1,082.90","$1,126.76",51.0%
+2025-10-03,West,Germany,Apparel,Sunglasses,K. Ivanova,Wholesale,13,$34.99,$19.24,$454.87,$250.12,$204.75,45.0%
+2025-10-03,South,Brazil,Electronics,Laptop Stand,J. Kim,Online,16,$24.99,$12.25,$399.84,$196.00,$203.84,51.0%
+2025-10-04,West,Germany,Electronics,Wireless Earbuds,L. Rossi,Retail Store,39,$59.99,$34.79,"$2,339.61","$1,356.81",$982.80,42.0%
+2025-10-04,East,Japan,Home & Kitchen,Coffee Maker,K. Ivanova,Retail Store,37,$69.99,$41.29,"$2,589.63","$1,527.73","$1,061.90",41.0%
+2025-10-04,South,Brazil,Office,Desk Lamp,J. Kim,Retail Store,23,$29.99,$16.79,$689.77,$386.17,$303.60,44.0%
+2025-10-04,East,Japan,Office,Desk Chair,A. Patel,Online,22,$179.99,$82.80,"$3,959.78","$1,821.60","$2,138.18",54.0%
+2025-10-05,North,Canada,Home & Kitchen,Cookware Set,J. Kim,Retail Store,16,$119.99,$56.40,"$1,919.84",$902.40,"$1,017.44",53.0%
+2025-10-05,South,Brazil,Apparel,Jacket,L. Rossi,Wholesale,10,$99.99,$46.00,$999.90,$460.00,$539.90,54.0%
+2025-10-05,South,Brazil,Apparel,Running Shoes,S. Owusu,Wholesale,8,$74.99,$39.74,$599.92,$317.92,$282.00,47.0%
+2025-10-05,South,Argentina,Home & Kitchen,Coffee Maker,T. Novak,Retail Store,10,$69.99,$41.29,$699.90,$412.90,$287.00,41.0%
+2025-10-06,East,Japan,Office,Notebook Set,M. Silva,Online,10,$14.99,$8.69,$149.90,$86.90,$63.00,42.0%
+2025-10-07,North,Canada,Home & Kitchen,Cookware Set,M. Silva,Online,24,$119.99,$56.40,"$2,879.76","$1,353.60","$1,526.16",53.0%
+2025-10-07,East,Japan,Office,Monitor Arm,R. Chen,Online,20,$64.99,$31.85,"$1,299.80",$637.00,$662.80,51.0%
+2025-10-07,South,Argentina,Home & Kitchen,Air Fryer,M. Silva,Online,8,$89.99,$53.99,$719.92,$431.92,$288.00,40.0%
+2025-10-08,North,Canada,Office,Desk Chair,L. Rossi,Wholesale,11,$179.99,$82.80,"$1,979.89",$910.80,"$1,069.09",54.0%
+2025-10-08,South,Argentina,Office,Desk Chair,S. Owusu,Online,38,$179.99,$82.80,"$6,839.62","$3,146.40","$3,693.22",54.0%
+2025-10-08,West,Germany,Apparel,Jacket,T. Novak,Online,17,$99.99,$46.00,"$1,699.83",$782.00,$917.83,54.0%
+2025-10-08,East,Japan,Electronics,Wireless Earbuds,M. Silva,Retail Store,9,$59.99,$34.79,$539.91,$313.11,$226.80,42.0%
+2025-10-09,West,UK,Electronics,Bluetooth Speaker,A. Patel,Online,19,$39.99,$20.39,$759.81,$387.41,$372.40,49.0%
+2025-10-09,North,Canada,Office,Notebook Set,R. Chen,Online,4,$14.99,$8.69,$59.96,$34.76,$25.20,42.0%
+2025-10-10,West,UK,Home & Kitchen,Air Fryer,K. Ivanova,Wholesale,10,$89.99,$53.99,$899.90,$539.90,$360.00,40.0%
+2025-10-10,North,USA,Apparel,Jacket,K. Ivanova,Retail Store,24,$99.99,$46.00,"$2,399.76","$1,104.00","$1,295.76",54.0%
+2025-10-10,West,Germany,Apparel,Jacket,M. Silva,Online,1,$99.99,$46.00,$99.99,$46.00,$53.99,54.0%
+2025-10-11,South,Brazil,Electronics,Wireless Earbuds,A. Patel,Online,3,$59.99,$34.79,$179.97,$104.37,$75.60,42.0%
+2025-10-11,West,Germany,Home & Kitchen,Coffee Maker,M. Silva,Online,39,$69.99,$41.29,"$2,729.61","$1,610.31","$1,119.30",41.0%
+2025-10-11,South,Brazil,Electronics,Laptop Stand,S. Owusu,Online,17,$24.99,$12.25,$424.83,$208.25,$216.58,51.0%
+2025-10-11,West,UK,Apparel,Backpack,K. Ivanova,Retail Store,30,$54.99,$26.95,"$1,649.70",$808.50,$841.20,51.0%
+2025-10-12,South,Argentina,Office,Desk Lamp,A. Patel,Online,15,$29.99,$16.79,$449.85,$251.85,$198.00,44.0%
+2025-10-12,West,UK,Electronics,Wireless Earbuds,S. Owusu,Retail Store,39,$59.99,$34.79,"$2,339.61","$1,356.81",$982.80,42.0%
+2025-10-12,West,Germany,Electronics,Wireless Earbuds,A. Patel,Wholesale,29,$59.99,$34.79,"$1,739.71","$1,008.91",$730.80,42.0%
+2025-10-13,West,UK,Office,Desk Lamp,K. Ivanova,Online,38,$29.99,$16.79,"$1,139.62",$638.02,$501.60,44.0%
+2025-10-13,East,India,Home & Kitchen,Cookware Set,A. Patel,Online,9,$119.99,$56.40,"$1,079.91",$507.60,$572.31,53.0%
+2025-10-13,North,USA,Apparel,Sunglasses,L. Rossi,Online,26,$34.99,$19.24,$909.74,$500.24,$409.50,45.0%
+2025-10-13,South,Brazil,Electronics,Wireless Earbuds,S. Owusu,Wholesale,35,$59.99,$34.79,"$2,099.65","$1,217.65",$882.00,42.0%
+2025-10-13,North,Canada,Home & Kitchen,Coffee Maker,S. Owusu,Online,6,$69.99,$41.29,$419.94,$247.74,$172.20,41.0%
+2025-10-13,East,India,Office,Desk Lamp,M. Silva,Online,25,$29.99,$16.79,$749.75,$419.75,$330.00,44.0%
+2025-10-14,South,Brazil,Office,Monitor Arm,M. Silva,Online,18,$64.99,$31.85,"$1,169.82",$573.30,$596.52,51.0%
+2025-10-14,North,USA,Apparel,Backpack,T. Novak,Online,19,$54.99,$26.95,"$1,044.81",$512.05,$532.76,51.0%
+2025-10-14,North,Canada,Office,Desk Chair,J. Kim,Retail Store,2,$179.99,$82.80,$359.98,$165.60,$194.38,54.0%
+2025-10-14,North,Canada,Office,Desk Lamp,J. Kim,Retail Store,27,$29.99,$16.79,$809.73,$453.33,$356.40,44.0%
+2025-10-15,North,Canada,Electronics,Smart Watch,T. Novak,Retail Store,20,$149.99,$69.00,"$2,999.80","$1,380.00","$1,619.80",54.0%
+2025-10-15,East,Japan,Electronics,Laptop Stand,J. Kim,Online,18,$24.99,$12.25,$449.82,$220.50,$229.32,51.0%
+2025-10-15,North,USA,Home & Kitchen,Blender,S. Owusu,Online,11,$44.99,$28.34,$494.89,$311.74,$183.15,37.0%
+2025-10-16,West,Germany,Office,Monitor Arm,R. Chen,Retail Store,13,$64.99,$31.85,$844.87,$414.05,$430.82,51.0%
+2025-10-16,North,Canada,Electronics,Laptop Stand,J. Kim,Retail Store,36,$24.99,$12.25,$899.64,$441.00,$458.64,51.0%
+2025-10-17,South,Brazil,Home & Kitchen,Coffee Maker,R. Chen,Online,10,$69.99,$41.29,$699.90,$412.90,$287.00,41.0%
+2025-10-17,North,USA,Home & Kitchen,Coffee Maker,K. Ivanova,Online,5,$69.99,$41.29,$349.95,$206.45,$143.50,41.0%
+2025-10-17,North,USA,Apparel,Running Shoes,T. Novak,Online,19,$74.99,$39.74,"$1,424.81",$755.06,$669.75,47.0%
+2025-10-17,East,Japan,Office,Monitor Arm,A. Patel,Online,15,$64.99,$31.85,$974.85,$477.75,$497.10,51.0%
+2025-10-17,South,Argentina,Apparel,Backpack,M. Silva,Retail Store,34,$54.99,$26.95,"$1,869.66",$916.30,$953.36,51.0%
+2025-10-18,North,USA,Electronics,Bluetooth Speaker,S. Owusu,Wholesale,17,$39.99,$20.39,$679.83,$346.63,$333.20,49.0%
+2025-10-18,West,Germany,Electronics,Laptop Stand,J. Kim,Online,34,$24.99,$12.25,$849.66,$416.50,$433.16,51.0%
+2025-10-19,South,Argentina,Apparel,Running Shoes,L. Rossi,Online,36,$74.99,$39.74,"$2,699.64","$1,430.64","$1,269.00",47.0%
+2025-10-19,South,Argentina,Electronics,Bluetooth Speaker,K. Ivanova,Retail Store,28,$39.99,$20.39,"$1,119.72",$570.92,$548.80,49.0%
+2025-10-21,South,Argentina,Office,Notebook Set,T. Novak,Online,8,$14.99,$8.69,$119.92,$69.52,$50.40,42.0%
+2025-10-21,West,UK,Electronics,Wireless Earbuds,J. Kim,Wholesale,15,$59.99,$34.79,$899.85,$521.85,$378.00,42.0%
+2025-10-21,South,Brazil,Electronics,Bluetooth Speaker,S. Owusu,Online,4,$39.99,$20.39,$159.96,$81.56,$78.40,49.0%
+2025-10-21,East,Japan,Apparel,Backpack,T. Novak,Online,39,$54.99,$26.95,"$2,144.61","$1,051.05","$1,093.56",51.0%
+2025-10-21,West,UK,Electronics,Wireless Earbuds,S. Owusu,Online,37,$59.99,$34.79,"$2,219.63","$1,287.23",$932.40,42.0%
+2025-10-22,North,USA,Apparel,Running Shoes,K. Ivanova,Online,34,$74.99,$39.74,"$2,549.66","$1,351.16","$1,198.50",47.0%
+2025-10-22,South,Brazil,Apparel,Jacket,L. Rossi,Wholesale,13,$99.99,$46.00,"$1,299.87",$598.00,$701.87,54.0%
+2025-10-22,North,Canada,Office,Desk Lamp,L. Rossi,Retail Store,5,$29.99,$16.79,$149.95,$83.95,$66.00,44.0%
+2025-10-23,West,UK,Office,Desk Lamp,R. Chen,Online,28,$29.99,$16.79,$839.72,$470.12,$369.60,44.0%
+2025-10-23,North,USA,Home & Kitchen,Blender,J. Kim,Wholesale,8,$44.99,$28.34,$359.92,$226.72,$133.20,37.0%
+2025-10-23,North,USA,Apparel,Backpack,R. Chen,Online,17,$54.99,$26.95,$934.83,$458.15,$476.68,51.0%
+2025-10-23,South,Brazil,Office,Desk Chair,A. Patel,Online,21,$179.99,$82.80,"$3,779.79","$1,738.80","$2,040.99",54.0%
+2025-10-23,South,Argentina,Electronics,Smart Watch,L. Rossi,Retail Store,26,$149.99,$69.00,"$3,899.74","$1,794.00","$2,105.74",54.0%
+2025-10-23,North,USA,Office,Monitor Arm,S. Owusu,Online,7,$64.99,$31.85,$454.93,$222.95,$231.98,51.0%
+2025-10-23,East,Japan,Home & Kitchen,Air Fryer,R. Chen,Online,11,$89.99,$53.99,$989.89,$593.89,$396.00,40.0%
+2025-10-23,West,UK,Apparel,Sunglasses,S. Owusu,Online,3,$34.99,$19.24,$104.97,$57.72,$47.25,45.0%
+2025-10-24,North,Canada,Electronics,Wireless Earbuds,K. Ivanova,Online,34,$59.99,$34.79,"$2,039.66","$1,182.86",$856.80,42.0%
+2025-10-24,North,Canada,Office,Desk Lamp,R. Chen,Online,16,$29.99,$16.79,$479.84,$268.64,$211.20,44.0%
+2025-10-25,North,Canada,Apparel,Backpack,M. Silva,Online,16,$54.99,$26.95,$879.84,$431.20,$448.64,51.0%
+2025-10-25,North,USA,Home & Kitchen,Cookware Set,T. Novak,Online,37,$119.99,$56.40,"$4,439.63","$2,086.80","$2,352.83",53.0%
+2025-10-25,South,Brazil,Apparel,Backpack,T. Novak,Online,28,$54.99,$26.95,"$1,539.72",$754.60,$785.12,51.0%
+2025-10-26,North,Canada,Apparel,Jacket,A. Patel,Retail Store,30,$99.99,$46.00,"$2,999.70","$1,380.00","$1,619.70",54.0%
+2025-10-26,West,Germany,Electronics,Bluetooth Speaker,J. Kim,Online,16,$39.99,$20.39,$639.84,$326.24,$313.60,49.0%
+2025-10-27,North,Canada,Home & Kitchen,Air Fryer,A. Patel,Retail Store,31,$89.99,$53.99,"$2,789.69","$1,673.69","$1,116.00",40.0%
+2025-10-27,South,Brazil,Apparel,Sunglasses,A. Patel,Online,7,$34.99,$19.24,$244.93,$134.68,$110.25,45.0%
+2025-10-28,East,Japan,Home & Kitchen,Blender,J. Kim,Online,25,$44.99,$28.34,"$1,124.75",$708.50,$416.25,37.0%
+2025-10-28,West,Germany,Home & Kitchen,Coffee Maker,A. Patel,Online,16,$69.99,$41.29,"$1,119.84",$660.64,$459.20,41.0%
+2025-10-28,South,Argentina,Home & Kitchen,Blender,R. Chen,Online,18,$44.99,$28.34,$809.82,$510.12,$299.70,37.0%
+2025-10-29,South,Brazil,Apparel,Sunglasses,M. Silva,Wholesale,5,$34.99,$19.24,$174.95,$96.20,$78.75,45.0%
+2025-10-29,North,Canada,Office,Desk Lamp,S. Owusu,Retail Store,32,$29.99,$16.79,$959.68,$537.28,$422.40,44.0%
+2025-10-30,South,Argentina,Electronics,Bluetooth Speaker,S. Owusu,Retail Store,11,$39.99,$20.39,$439.89,$224.29,$215.60,49.0%
+2025-10-30,South,Brazil,Office,Desk Chair,A. Patel,Wholesale,33,$179.99,$82.80,"$5,939.67","$2,732.40","$3,207.27",54.0%
+2025-10-31,North,USA,Apparel,Running Shoes,S. Owusu,Online,35,$74.99,$39.74,"$2,624.65","$1,390.90","$1,233.75",47.0%
+2025-10-31,East,Japan,Home & Kitchen,Air Fryer,K. Ivanova,Online,22,$89.99,$53.99,"$1,979.78","$1,187.78",$792.00,40.0%
+2025-11-01,East,Japan,Electronics,Wireless Earbuds,L. Rossi,Retail Store,36,$59.99,$34.79,"$2,159.64","$1,252.44",$907.20,42.0%
+2025-11-01,North,USA,Home & Kitchen,Blender,S. Owusu,Online,40,$44.99,$28.34,"$1,799.60","$1,133.60",$666.00,37.0%
+2025-11-02,North,Canada,Home & Kitchen,Coffee Maker,T. Novak,Retail Store,8,$69.99,$41.29,$559.92,$330.32,$229.60,41.0%
+2025-11-03,North,USA,Electronics,Laptop Stand,K. Ivanova,Online,14,$24.99,$12.25,$349.86,$171.50,$178.36,51.0%
+2025-11-03,East,Japan,Electronics,Bluetooth Speaker,L. Rossi,Online,6,$39.99,$20.39,$239.94,$122.34,$117.60,49.0%
+2025-11-03,North,USA,Home & Kitchen,Blender,K. Ivanova,Wholesale,34,$44.99,$28.34,"$1,529.66",$963.56,$566.10,37.0%
+2025-11-04,North,USA,Electronics,Laptop Stand,M. Silva,Wholesale,35,$24.99,$12.25,$874.65,$428.75,$445.90,51.0%
+2025-11-05,North,USA,Home & Kitchen,Coffee Maker,K. Ivanova,Online,22,$69.99,$41.29,"$1,539.78",$908.38,$631.40,41.0%
+2025-11-05,West,UK,Office,Notebook Set,M. Silva,Online,26,$14.99,$8.69,$389.74,$225.94,$163.80,42.0%
+2025-11-06,East,India,Office,Desk Chair,L. Rossi,Online,19,$179.99,$82.80,"$3,419.81","$1,573.20","$1,846.61",54.0%
+2025-11-06,South,Argentina,Electronics,Laptop Stand,S. Owusu,Retail Store,7,$24.99,$12.25,$174.93,$85.75,$89.18,51.0%
+2025-11-06,East,India,Office,Desk Chair,A. Patel,Online,1,$179.99,$82.80,$179.99,$82.80,$97.19,54.0%
+2025-11-07,West,UK,Electronics,Wireless Earbuds,S. Owusu,Online,13,$59.99,$34.79,$779.87,$452.27,$327.60,42.0%
+2025-11-07,East,Japan,Office,Monitor Arm,T. Novak,Online,22,$64.99,$31.85,"$1,429.78",$700.70,$729.08,51.0%
+2025-11-07,North,Canada,Office,Desk Lamp,L. Rossi,Retail Store,2,$29.99,$16.79,$59.98,$33.58,$26.40,44.0%
+2025-11-07,East,Japan,Electronics,Laptop Stand,A. Patel,Online,12,$24.99,$12.25,$299.88,$147.00,$152.88,51.0%
+2025-11-08,West,UK,Home & Kitchen,Air Fryer,R. Chen,Retail Store,24,$89.99,$53.99,"$2,159.76","$1,295.76",$864.00,40.0%
+2025-11-08,West,UK,Office,Notebook Set,R. Chen,Online,31,$14.99,$8.69,$464.69,$269.39,$195.30,42.0%
+2025-11-09,North,USA,Office,Desk Chair,T. Novak,Online,1,$179.99,$82.80,$179.99,$82.80,$97.19,54.0%
+2025-11-10,North,USA,Office,Desk Lamp,J. Kim,Wholesale,29,$29.99,$16.79,$869.71,$486.91,$382.80,44.0%
+2025-11-10,East,Japan,Office,Monitor Arm,S. Owusu,Retail Store,32,$64.99,$31.85,"$2,079.68","$1,019.20","$1,060.48",51.0%
+2025-11-11,North,USA,Home & Kitchen,Air Fryer,J. Kim,Retail Store,29,$89.99,$53.99,"$2,609.71","$1,565.71","$1,044.00",40.0%
+2025-11-11,North,USA,Office,Notebook Set,S. Owusu,Online,37,$14.99,$8.69,$554.63,$321.53,$233.10,42.0%
+2025-11-12,East,India,Home & Kitchen,Coffee Maker,A. Patel,Online,31,$69.99,$41.29,"$2,169.69","$1,279.99",$889.70,41.0%
+2025-11-13,North,USA,Apparel,Jacket,J. Kim,Online,7,$99.99,$46.00,$699.93,$322.00,$377.93,54.0%
+2025-11-13,North,Canada,Apparel,Backpack,K. Ivanova,Online,26,$54.99,$26.95,"$1,429.74",$700.70,$729.04,51.0%
+2025-11-13,South,Argentina,Electronics,Smart Watch,S. Owusu,Online,20,$149.99,$69.00,"$2,999.80","$1,380.00","$1,619.80",54.0%
+2025-11-13,East,India,Electronics,Wireless Earbuds,J. Kim,Retail Store,32,$59.99,$34.79,"$1,919.68","$1,113.28",$806.40,42.0%
+2025-11-13,South,Brazil,Home & Kitchen,Cookware Set,T. Novak,Wholesale,23,$119.99,$56.40,"$2,759.77","$1,297.20","$1,462.57",53.0%
+2025-11-14,South,Brazil,Home & Kitchen,Coffee Maker,L. Rossi,Online,22,$69.99,$41.29,"$1,539.78",$908.38,$631.40,41.0%
+2025-11-14,North,USA,Home & Kitchen,Air Fryer,J. Kim,Online,39,$89.99,$53.99,"$3,509.61","$2,105.61","$1,404.00",40.0%
+2025-11-16,East,Japan,Apparel,Sunglasses,L. Rossi,Online,8,$34.99,$19.24,$279.92,$153.92,$126.00,45.0%
+2025-11-16,East,India,Apparel,Jacket,J. Kim,Online,14,$99.99,$46.00,"$1,399.86",$644.00,$755.86,54.0%
+2025-11-16,North,Canada,Office,Desk Chair,M. Silva,Online,18,$179.99,$82.80,"$3,239.82","$1,490.40","$1,749.42",54.0%
+2025-11-16,North,USA,Office,Desk Lamp,R. Chen,Online,32,$29.99,$16.79,$959.68,$537.28,$422.40,44.0%
+2025-11-17,South,Argentina,Apparel,Backpack,L. Rossi,Online,5,$54.99,$26.95,$274.95,$134.75,$140.20,51.0%
+2025-11-17,South,Brazil,Apparel,Sunglasses,M. Silva,Online,2,$34.99,$19.24,$69.98,$38.48,$31.50,45.0%
+2025-11-18,East,India,Electronics,Wireless Earbuds,R. Chen,Retail Store,6,$59.99,$34.79,$359.94,$208.74,$151.20,42.0%
+2025-11-18,South,Argentina,Electronics,Laptop Stand,L. Rossi,Retail Store,30,$24.99,$12.25,$749.70,$367.50,$382.20,51.0%
+2025-11-18,South,Argentina,Office,Monitor Arm,J. Kim,Wholesale,9,$64.99,$31.85,$584.91,$286.65,$298.26,51.0%
+2025-11-18,North,Canada,Office,Notebook Set,A. Patel,Online,37,$14.99,$8.69,$554.63,$321.53,$233.10,42.0%
+2025-11-19,South,Brazil,Office,Desk Lamp,A. Patel,Retail Store,13,$29.99,$16.79,$389.87,$218.27,$171.60,44.0%
+2025-11-19,West,Germany,Office,Notebook Set,A. Patel,Online,32,$14.99,$8.69,$479.68,$278.08,$201.60,42.0%
+2025-11-20,East,Japan,Electronics,Bluetooth Speaker,J. Kim,Online,29,$39.99,$20.39,"$1,159.71",$591.31,$568.40,49.0%
+2025-11-20,North,Canada,Home & Kitchen,Air Fryer,T. Novak,Online,35,$89.99,$53.99,"$3,149.65","$1,889.65","$1,260.00",40.0%
+2025-11-21,North,Canada,Home & Kitchen,Blender,A. Patel,Online,4,$44.99,$28.34,$179.96,$113.36,$66.60,37.0%
+2025-11-21,East,Japan,Home & Kitchen,Cookware Set,L. Rossi,Online,5,$119.99,$56.40,$599.95,$282.00,$317.95,53.0%
+2025-11-22,West,UK,Office,Monitor Arm,T. Novak,Retail Store,35,$64.99,$31.85,"$2,274.65","$1,114.75","$1,159.90",51.0%
+2025-11-22,West,Germany,Apparel,Running Shoes,S. Owusu,Retail Store,23,$74.99,$39.74,"$1,724.77",$914.02,$810.75,47.0%
+2025-11-22,East,India,Apparel,Backpack,J. Kim,Online,12,$54.99,$26.95,$659.88,$323.40,$336.48,51.0%
+2025-11-23,East,India,Office,Desk Lamp,A. Patel,Online,10,$29.99,$16.79,$299.90,$167.90,$132.00,44.0%
+2025-11-23,West,UK,Electronics,Bluetooth Speaker,K. Ivanova,Online,22,$39.99,$20.39,$879.78,$448.58,$431.20,49.0%
+2025-11-23,North,USA,Electronics,Laptop Stand,L. Rossi,Retail Store,22,$24.99,$12.25,$549.78,$269.50,$280.28,51.0%
+2025-11-23,East,India,Office,Notebook Set,S. Owusu,Retail Store,15,$14.99,$8.69,$224.85,$130.35,$94.50,42.0%
+2025-11-23,East,Japan,Apparel,Backpack,T. Novak,Online,7,$54.99,$26.95,$384.93,$188.65,$196.28,51.0%
+2025-11-24,South,Argentina,Electronics,Smart Watch,A. Patel,Retail Store,26,$149.99,$69.00,"$3,899.74","$1,794.00","$2,105.74",54.0%
+2025-11-24,South,Brazil,Apparel,Jacket,A. Patel,Retail Store,32,$99.99,$46.00,"$3,199.68","$1,472.00","$1,727.68",54.0%
+2025-11-24,West,Germany,Office,Notebook Set,R. Chen,Wholesale,31,$14.99,$8.69,$464.69,$269.39,$195.30,42.0%
+2025-11-24,East,Japan,Apparel,Backpack,R. Chen,Online,16,$54.99,$26.95,$879.84,$431.20,$448.64,51.0%
+2025-11-24,West,Germany,Electronics,Smart Watch,T. Novak,Online,39,$149.99,$69.00,"$5,849.61","$2,691.00","$3,158.61",54.0%
+2025-11-24,South,Argentina,Home & Kitchen,Coffee Maker,T. Novak,Online,21,$69.99,$41.29,"$1,469.79",$867.09,$602.70,41.0%
+2025-11-24,West,Germany,Office,Notebook Set,T. Novak,Online,5,$14.99,$8.69,$74.95,$43.45,$31.50,42.0%
+2025-11-25,North,USA,Electronics,Wireless Earbuds,A. Patel,Online,15,$59.99,$34.79,$899.85,$521.85,$378.00,42.0%
+2025-11-25,South,Brazil,Electronics,Smart Watch,K. Ivanova,Online,14,$149.99,$69.00,"$2,099.86",$966.00,"$1,133.86",54.0%
+2025-11-26,South,Brazil,Office,Notebook Set,K. Ivanova,Online,32,$14.99,$8.69,$479.68,$278.08,$201.60,42.0%
+2025-11-26,West,Germany,Home & Kitchen,Air Fryer,K. Ivanova,Online,37,$89.99,$53.99,"$3,329.63","$1,997.63","$1,332.00",40.0%
+2025-11-26,East,India,Home & Kitchen,Coffee Maker,M. Silva,Online,8,$69.99,$41.29,$559.92,$330.32,$229.60,41.0%
+2025-11-26,West,UK,Apparel,Running Shoes,K. Ivanova,Online,27,$74.99,$39.74,"$2,024.73","$1,072.98",$951.75,47.0%
+2025-11-26,South,Argentina,Apparel,Sunglasses,R. Chen,Wholesale,6,$34.99,$19.24,$209.94,$115.44,$94.50,45.0%
+2025-11-27,North,USA,Office,Desk Lamp,J. Kim,Online,39,$29.99,$16.79,"$1,169.61",$654.81,$514.80,44.0%
+2025-11-27,East,Japan,Office,Monitor Arm,S. Owusu,Retail Store,34,$64.99,$31.85,"$2,209.66","$1,082.90","$1,126.76",51.0%
+2025-11-29,North,Canada,Office,Notebook Set,K. Ivanova,Wholesale,3,$14.99,$8.69,$44.97,$26.07,$18.90,42.0%
+2025-11-29,East,Japan,Apparel,Backpack,K. Ivanova,Online,31,$54.99,$26.95,"$1,704.69",$835.45,$869.24,51.0%
+2025-11-29,North,USA,Home & Kitchen,Coffee Maker,K. Ivanova,Wholesale,26,$69.99,$41.29,"$1,819.74","$1,073.54",$746.20,41.0%
+2025-11-30,South,Brazil,Home & Kitchen,Cookware Set,M. Silva,Wholesale,3,$119.99,$56.40,$359.97,$169.20,$190.77,53.0%
+2025-11-30,South,Argentina,Apparel,Jacket,K. Ivanova,Online,26,$99.99,$46.00,"$2,599.74","$1,196.00","$1,403.74",54.0%
+2025-12-01,North,USA,Office,Desk Lamp,L. Rossi,Retail Store,4,$29.99,$16.79,$119.96,$67.16,$52.80,44.0%
+2025-12-01,East,Japan,Office,Notebook Set,K. Ivanova,Retail Store,24,$14.99,$8.69,$359.76,$208.56,$151.20,42.0%
+2025-12-01,North,USA,Office,Notebook Set,M. Silva,Retail Store,26,$14.99,$8.69,$389.74,$225.94,$163.80,42.0%
+2025-12-02,South,Brazil,Office,Notebook Set,S. Owusu,Retail Store,26,$14.99,$8.69,$389.74,$225.94,$163.80,42.0%
+2025-12-02,South,Argentina,Office,Monitor Arm,L. Rossi,Online,30,$64.99,$31.85,"$1,949.70",$955.50,$994.20,51.0%
+2025-12-02,East,Japan,Electronics,Bluetooth Speaker,L. Rossi,Wholesale,29,$39.99,$20.39,"$1,159.71",$591.31,$568.40,49.0%
+2025-12-02,South,Brazil,Office,Monitor Arm,L. Rossi,Online,16,$64.99,$31.85,"$1,039.84",$509.60,$530.24,51.0%
+2025-12-02,West,UK,Office,Desk Chair,S. Owusu,Retail Store,27,$179.99,$82.80,"$4,859.73","$2,235.60","$2,624.13",54.0%
+2025-12-02,South,Argentina,Electronics,Wireless Earbuds,M. Silva,Online,10,$59.99,$34.79,$599.90,$347.90,$252.00,42.0%
+2025-12-03,East,India,Electronics,Laptop Stand,S. Owusu,Wholesale,28,$24.99,$12.25,$699.72,$343.00,$356.72,51.0%
+2025-12-04,North,Canada,Apparel,Running Shoes,R. Chen,Retail Store,15,$74.99,$39.74,"$1,124.85",$596.10,$528.75,47.0%
+2025-12-04,South,Argentina,Apparel,Running Shoes,R. Chen,Retail Store,15,$74.99,$39.74,"$1,124.85",$596.10,$528.75,47.0%
+2025-12-04,South,Brazil,Home & Kitchen,Coffee Maker,A. Patel,Online,20,$69.99,$41.29,"$1,399.80",$825.80,$574.00,41.0%
+2025-12-04,West,Germany,Office,Desk Lamp,J. Kim,Retail Store,1,$29.99,$16.79,$29.99,$16.79,$13.20,44.0%
+2025-12-04,North,USA,Home & Kitchen,Cookware Set,L. Rossi,Retail Store,7,$119.99,$56.40,$839.93,$394.80,$445.13,53.0%
+2025-12-04,South,Brazil,Office,Desk Chair,A. Patel,Wholesale,6,$179.99,$82.80,"$1,079.94",$496.80,$583.14,54.0%
+2025-12-05,North,USA,Electronics,Bluetooth Speaker,R. Chen,Retail Store,2,$39.99,$20.39,$79.98,$40.78,$39.20,49.0%
+2025-12-05,South,Argentina,Apparel,Backpack,A. Patel,Retail Store,38,$54.99,$26.95,"$2,089.62","$1,024.10","$1,065.52",51.0%
+2025-12-05,West,UK,Electronics,Wireless Earbuds,R. Chen,Online,19,$59.99,$34.79,"$1,139.81",$661.01,$478.80,42.0%
+2025-12-05,South,Argentina,Apparel,Running Shoes,K. Ivanova,Retail Store,31,$74.99,$39.74,"$2,324.69","$1,231.94","$1,092.75",47.0%
+2025-12-05,East,India,Home & Kitchen,Coffee Maker,L. Rossi,Online,5,$69.99,$41.29,$349.95,$206.45,$143.50,41.0%
+2025-12-06,East,India,Electronics,Bluetooth Speaker,L. Rossi,Online,25,$39.99,$20.39,$999.75,$509.75,$490.00,49.0%
+2025-12-08,South,Brazil,Home & Kitchen,Cookware Set,S. Owusu,Online,18,$119.99,$56.40,"$2,159.82","$1,015.20","$1,144.62",53.0%
+2025-12-08,South,Argentina,Apparel,Running Shoes,K. Ivanova,Wholesale,9,$74.99,$39.74,$674.91,$357.66,$317.25,47.0%
+2025-12-08,West,UK,Home & Kitchen,Coffee Maker,M. Silva,Retail Store,7,$69.99,$41.29,$489.93,$289.03,$200.90,41.0%
+2025-12-10,East,Japan,Apparel,Running Shoes,A. Patel,Online,37,$74.99,$39.74,"$2,774.63","$1,470.38","$1,304.25",47.0%
+2025-12-10,West,Germany,Office,Desk Lamp,J. Kim,Online,30,$29.99,$16.79,$899.70,$503.70,$396.00,44.0%
+2025-12-10,North,USA,Apparel,Jacket,T. Novak,Retail Store,10,$99.99,$46.00,$999.90,$460.00,$539.90,54.0%
+2025-12-10,South,Brazil,Electronics,Smart Watch,K. Ivanova,Wholesale,32,$149.99,$69.00,"$4,799.68","$2,208.00","$2,591.68",54.0%
+2025-12-11,West,UK,Home & Kitchen,Coffee Maker,R. Chen,Wholesale,18,$69.99,$41.29,"$1,259.82",$743.22,$516.60,41.0%
+2025-12-11,North,Canada,Office,Notebook Set,L. Rossi,Online,1,$14.99,$8.69,$14.99,$8.69,$6.30,42.0%
+2025-12-12,East,Japan,Electronics,Wireless Earbuds,A. Patel,Online,4,$59.99,$34.79,$239.96,$139.16,$100.80,42.0%
+2025-12-12,North,USA,Home & Kitchen,Blender,L. Rossi,Online,33,$44.99,$28.34,"$1,484.67",$935.22,$549.45,37.0%
+2025-12-13,West,Germany,Electronics,Laptop Stand,A. Patel,Online,8,$24.99,$12.25,$199.92,$98.00,$101.92,51.0%
+2025-12-13,East,Japan,Home & Kitchen,Air Fryer,S. Owusu,Online,28,$89.99,$53.99,"$2,519.72","$1,511.72","$1,008.00",40.0%
+2025-12-13,South,Argentina,Office,Notebook Set,A. Patel,Retail Store,17,$14.99,$8.69,$254.83,$147.73,$107.10,42.0%
+2025-12-13,South,Argentina,Home & Kitchen,Cookware Set,M. Silva,Online,17,$119.99,$56.40,"$2,039.83",$958.80,"$1,081.03",53.0%
+2025-12-13,North,Canada,Electronics,Bluetooth Speaker,J. Kim,Online,38,$39.99,$20.39,"$1,519.62",$774.82,$744.80,49.0%
+2025-12-14,East,India,Electronics,Bluetooth Speaker,M. Silva,Retail Store,17,$39.99,$20.39,$679.83,$346.63,$333.20,49.0%
+2025-12-14,West,Germany,Apparel,Jacket,S. Owusu,Online,10,$99.99,$46.00,$999.90,$460.00,$539.90,54.0%
+2025-12-14,North,Canada,Electronics,Laptop Stand,R. Chen,Online,6,$24.99,$12.25,$149.94,$73.50,$76.44,51.0%
+2025-12-15,North,USA,Apparel,Sunglasses,K. Ivanova,Online,31,$34.99,$19.24,"$1,084.69",$596.44,$488.25,45.0%
+2025-12-15,West,UK,Office,Desk Chair,T. Novak,Online,15,$179.99,$82.80,"$2,699.85","$1,242.00","$1,457.85",54.0%
+2025-12-16,South,Brazil,Home & Kitchen,Air Fryer,L. Rossi,Retail Store,16,$89.99,$53.99,"$1,439.84",$863.84,$576.00,40.0%
+2025-12-17,West,Germany,Home & Kitchen,Coffee Maker,J. Kim,Retail Store,30,$69.99,$41.29,"$2,099.70","$1,238.70",$861.00,41.0%
+2025-12-17,East,India,Home & Kitchen,Blender,A. Patel,Wholesale,38,$44.99,$28.34,"$1,709.62","$1,076.92",$632.70,37.0%
+2025-12-17,West,UK,Home & Kitchen,Cookware Set,J. Kim,Retail Store,10,$119.99,$56.40,"$1,199.90",$564.00,$635.90,53.0%
+2025-12-17,South,Brazil,Office,Monitor Arm,M. Silva,Retail Store,37,$64.99,$31.85,"$2,404.63","$1,178.45","$1,226.18",51.0%
+2025-12-17,North,USA,Office,Desk Lamp,S. Owusu,Online,21,$29.99,$16.79,$629.79,$352.59,$277.20,44.0%
+2025-12-17,East,India,Apparel,Running Shoes,K. Ivanova,Online,31,$74.99,$39.74,"$2,324.69","$1,231.94","$1,092.75",47.0%
+2025-12-17,West,Germany,Home & Kitchen,Blender,T. Novak,Online,2,$44.99,$28.34,$89.98,$56.68,$33.30,37.0%
+2025-12-17,West,Germany,Home & Kitchen,Coffee Maker,A. Patel,Online,24,$69.99,$41.29,"$1,679.76",$990.96,$688.80,41.0%
+2025-12-17,East,Japan,Office,Notebook Set,J. Kim,Retail Store,27,$14.99,$8.69,$404.73,$234.63,$170.10,42.0%
+2025-12-17,East,India,Office,Notebook Set,A. Patel,Retail Store,3,$14.99,$8.69,$44.97,$26.07,$18.90,42.0%
+2025-12-18,South,Argentina,Office,Desk Chair,S. Owusu,Retail Store,8,$179.99,$82.80,"$1,439.92",$662.40,$777.52,54.0%
+2025-12-18,West,Germany,Apparel,Jacket,M. Silva,Online,31,$99.99,$46.00,"$3,099.69","$1,426.00","$1,673.69",54.0%
+2025-12-19,South,Argentina,Electronics,Smart Watch,M. Silva,Online,40,$149.99,$69.00,"$5,999.60","$2,760.00","$3,239.60",54.0%
+2025-12-19,East,Japan,Home & Kitchen,Cookware Set,L. Rossi,Retail Store,39,$119.99,$56.40,"$4,679.61","$2,199.60","$2,480.01",53.0%
+2025-12-19,South,Argentina,Home & Kitchen,Coffee Maker,M. Silva,Wholesale,28,$69.99,$41.29,"$1,959.72","$1,156.12",$803.60,41.0%
+2025-12-19,West,Germany,Home & Kitchen,Coffee Maker,M. Silva,Online,30,$69.99,$41.29,"$2,099.70","$1,238.70",$861.00,41.0%
+2025-12-20,South,Argentina,Office,Desk Chair,M. Silva,Online,36,$179.99,$82.80,"$6,479.64","$2,980.80","$3,498.84",54.0%
+2025-12-20,South,Argentina,Office,Desk Chair,J. Kim,Online,38,$179.99,$82.80,"$6,839.62","$3,146.40","$3,693.22",54.0%
+2025-12-20,North,USA,Electronics,Laptop Stand,L. Rossi,Online,7,$24.99,$12.25,$174.93,$85.75,$89.18,51.0%
+2025-12-20,South,Argentina,Office,Notebook Set,S. Owusu,Wholesale,8,$14.99,$8.69,$119.92,$69.52,$50.40,42.0%
+2025-12-21,South,Brazil,Home & Kitchen,Blender,K. Ivanova,Online,12,$44.99,$28.34,$539.88,$340.08,$199.80,37.0%
+2025-12-21,East,Japan,Electronics,Laptop Stand,A. Patel,Wholesale,21,$24.99,$12.25,$524.79,$257.25,$267.54,51.0%
+2025-12-22,South,Argentina,Electronics,Smart Watch,L. Rossi,Online,7,$149.99,$69.00,"$1,049.93",$483.00,$566.93,54.0%
+2025-12-22,East,India,Home & Kitchen,Cookware Set,T. Novak,Retail Store,19,$119.99,$56.40,"$2,279.81","$1,071.60","$1,208.21",53.0%
+2025-12-22,North,Canada,Electronics,Bluetooth Speaker,M. Silva,Retail Store,10,$39.99,$20.39,$399.90,$203.90,$196.00,49.0%
+2025-12-22,West,Germany,Office,Notebook Set,L. Rossi,Retail Store,38,$14.99,$8.69,$569.62,$330.22,$239.40,42.0%
+2025-12-23,South,Argentina,Office,Desk Chair,J. Kim,Online,14,$179.99,$82.80,"$2,519.86","$1,159.20","$1,360.66",54.0%
+2025-12-23,West,Germany,Home & Kitchen,Blender,L. Rossi,Online,35,$44.99,$28.34,"$1,574.65",$991.90,$582.75,37.0%
+2025-12-23,North,USA,Apparel,Sunglasses,R. Chen,Retail Store,25,$34.99,$19.24,$874.75,$481.00,$393.75,45.0%
+2025-12-23,North,USA,Home & Kitchen,Blender,K. Ivanova,Retail Store,21,$44.99,$28.34,$944.79,$595.14,$349.65,37.0%
+2025-12-23,East,India,Office,Desk Chair,J. Kim,Online,18,$179.99,$82.80,"$3,239.82","$1,490.40","$1,749.42",54.0%
+2025-12-23,South,Argentina,Office,Notebook Set,K. Ivanova,Online,30,$14.99,$8.69,$449.70,$260.70,$189.00,42.0%
+2025-12-24,West,UK,Electronics,Smart Watch,M. Silva,Online,1,$149.99,$69.00,$149.99,$69.00,$80.99,54.0%
+2025-12-24,South,Argentina,Home & Kitchen,Cookware Set,A. Patel,Online,31,$119.99,$56.40,"$3,719.69","$1,748.40","$1,971.29",53.0%
+2025-12-25,East,Japan,Office,Notebook Set,R. Chen,Online,13,$14.99,$8.69,$194.87,$112.97,$81.90,42.0%
+2025-12-25,East,Japan,Office,Notebook Set,K. Ivanova,Online,9,$14.99,$8.69,$134.91,$78.21,$56.70,42.0%
+2025-12-25,North,Canada,Office,Desk Lamp,R. Chen,Wholesale,10,$29.99,$16.79,$299.90,$167.90,$132.00,44.0%
+2025-12-26,East,India,Home & Kitchen,Air Fryer,R. Chen,Retail Store,32,$89.99,$53.99,"$2,879.68","$1,727.68","$1,152.00",40.0%
+2025-12-26,South,Brazil,Home & Kitchen,Blender,R. Chen,Retail Store,26,$44.99,$28.34,"$1,169.74",$736.84,$432.90,37.0%
+2025-12-27,South,Argentina,Home & Kitchen,Blender,T. Novak,Online,35,$44.99,$28.34,"$1,574.65",$991.90,$582.75,37.0%
+2025-12-27,North,USA,Home & Kitchen,Blender,R. Chen,Online,31,$44.99,$28.34,"$1,394.69",$878.54,$516.15,37.0%
+2025-12-28,South,Brazil,Office,Desk Lamp,S. Owusu,Online,27,$29.99,$16.79,$809.73,$453.33,$356.40,44.0%
+2025-12-28,West,Germany,Home & Kitchen,Cookware Set,A. Patel,Online,38,$119.99,$56.40,"$4,559.62","$2,143.20","$2,416.42",53.0%
+2025-12-28,East,Japan,Apparel,Backpack,S. Owusu,Wholesale,40,$54.99,$26.95,"$2,199.60","$1,078.00","$1,121.60",51.0%
+2025-12-29,North,Canada,Apparel,Jacket,S. Owusu,Online,11,$99.99,$46.00,"$1,099.89",$506.00,$593.89,54.0%
+2025-12-30,South,Argentina,Electronics,Bluetooth Speaker,K. Ivanova,Retail Store,27,$39.99,$20.39,"$1,079.73",$550.53,$529.20,49.0%
+2025-12-30,North,Canada,Office,Desk Chair,K. Ivanova,Wholesale,24,$179.99,$82.80,"$4,319.76","$1,987.20","$2,332.56",54.0%
+2025-12-30,North,USA,Apparel,Sunglasses,T. Novak,Wholesale,24,$34.99,$19.24,$839.76,$461.76,$378.00,45.0%
+2025-12-31,North,Canada,Electronics,Smart Watch,T. Novak,Online,33,$149.99,$69.00,"$4,949.67","$2,277.00","$2,672.67",54.0%
+2025-12-31,East,India,Electronics,Smart Watch,L. Rossi,Retail Store,24,$149.99,$69.00,"$3,599.76","$1,656.00","$1,943.76",54.0%
+2025-12-31,West,Germany,Apparel,Jacket,S. Owusu,Wholesale,30,$99.99,$46.00,"$2,999.70","$1,380.00","$1,619.70",54.0%

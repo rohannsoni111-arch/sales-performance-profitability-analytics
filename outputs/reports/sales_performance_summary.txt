@@ -1,0 +1,68 @@
+================================================================================
+sales performance & profitability analytics - EXECUTIVE SUMMARY REPORT
+================================================================================
+Analysis Period: Jan 01, 2025 - Dec 31, 2025
+Total Transactions: 1,000 orders
+
+--------------------------------------------------------------------------------
+1. FINANCIAL SUMMARY METRICS
+--------------------------------------------------------------------------------
+- Total Gross Revenue : $1,539,751.45
+- Total Operating Cost: $783,890.97
+- Total Net Profit    : $755,860.48
+- Overall Profit Margin: 49.09%
+- Average Order Margin: 47.20%
+- Total Units Sold    : 21,355 units
+- Avg Revenue / Order : $1,539.75
+- Avg Units / Order   : 21.36 units
+
+--------------------------------------------------------------------------------
+2. REGIONAL PERFORMANCE BREAKDOWN
+--------------------------------------------------------------------------------
+Region     Orders   Units Sold    Gross Revenue       Total Cost       Net Profit   Margin %
+South         280        5,951      $434,395.49      $215,588.49      $218,807.00     50.37%
+North         265        5,441      $394,483.24      $202,710.21      $191,773.03     48.61%
+East          228        5,015      $359,386.75      $186,683.29      $172,703.46     48.05%
+West          227        4,948      $351,485.97      $178,908.98      $172,576.99     49.10%
+
+--------------------------------------------------------------------------------
+3. PRODUCT CATEGORY BREAKDOWN
+--------------------------------------------------------------------------------
+Category         Gross Revenue       Total Cost       Net Profit   Margin %
+Home & Kitchen     $454,309.59      $249,145.37      $205,164.22     45.16%
+Office             $402,168.54      $194,454.24      $207,714.30     51.65%
+Apparel            $360,186.15      $179,075.62      $181,110.53     50.28%
+Electronics        $323,087.17      $161,215.74      $161,871.43     50.10%
+
+--------------------------------------------------------------------------------
+4. SALES CHANNEL BREAKDOWN
+--------------------------------------------------------------------------------
+Channel        Orders   Gross Revenue       Net Profit   Revenue Share %   Margin %
+Online            522      $802,328.49      $391,374.02            52.11%     48.78%
+Retail Store      314      $482,622.42      $237,597.55            31.34%     49.23%
+Wholesale         164      $254,800.54      $126,888.91            16.55%     49.80%
+
+--------------------------------------------------------------------------------
+5. TOP PRODUCT PROFITABILITY RANKINGS
+--------------------------------------------------------------------------------
+1. Desk Chair       : $139,953.60 Profit (Category: Office)
+2. Cookware Set     : $98,755.27 Profit (Category: Home & Kitchen)
+3. Smart Watch      : $90,627.81 Profit (Category: Electronics)
+4. Jacket            : $72,400.59 Profit (Category: Apparel)
+5. Running Shoes    : $48,363.00 Profit (Category: Apparel)
+
+--------------------------------------------------------------------------------
+6. TOP SALES REPRESENTATIVE PERFORMANCE
+--------------------------------------------------------------------------------
+1. K. Ivanova : $243,152.03 Revenue | $116,922.99 Profit | 154 Orders
+2. T. Novak   : $204,534.84 Revenue | $104,116.14 Profit | 134 Orders
+3. S. Owusu   : $196,506.80 Revenue | $96,013.91 Profit  | 131 Orders
+4. A. Patel   : $196,188.64 Revenue | $96,590.72 Profit  | 126 Orders
+5. M. Silva   : $184,204.95 Revenue | $90,195.91 Profit  | 121 Orders
+6. L. Rossi   : $180,740.00 Revenue | $88,290.49 Profit  | 117 Orders
+7. J. Kim     : $177,497.49 Revenue | $87,543.19 Profit  | 118 Orders
+8. R. Chen    : $156,926.70 Revenue | $76,187.13 Profit  | 99 Orders
+
+================================================================================
+Report generated automatically for Sales Performance & Profitability Analytics project.
+================================================================================
